@@ -955,3 +955,106 @@
 })();
 
 App.boot();
+
+/* ===== v17: AI 供应商设置(自包含) ===== */
+(function () {
+  var PROV = {
+    zhipu: { label: "智谱 GLM", base: "https://open.bigmodel.cn/api/paas/v4", models: ["glm-4-flash", "glm-4-air", "glm-4-plus"] },
+    deepseek: { label: "DeepSeek", base: "https://api.deepseek.com/v1", models: ["deepseek-chat", "deepseek-reasoner"] },
+    kimi: { label: "Kimi 月之暗面", base: "https://api.moonshot.cn/v1", models: ["moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k"] },
+    ark: { label: "火山方舟", base: "https://ark.cn-beijing.volces.com/api/v3", models: ["doubao-pro-32k", "doubao-lite-32k"] }
+  };
+  function $(id) { return document.getElementById(id); }
+  function toast(msg, isErr) {
+    var t = document.createElement("div");
+    t.className = "toast" + (isErr ? " err" : "");
+    t.textContent = msg;
+    $("toastRoot").appendChild(t);
+    setTimeout(function () { t.remove(); }, 2800);
+  }
+  var built = false;
+  function fillModels(pid) {
+    var p = PROV[pid] || { models: [], base: "" };
+    var dl = $("ksaiModels"); dl.innerHTML = "";
+    p.models.forEach(function (m) {
+      var o = document.createElement("option"); o.value = m; dl.appendChild(o);
+    });
+    $("ksaiBase").value = p.base;
+  }
+  function close() { var w = $("ksaiWrap"); if (w) w.remove(); built = false; }
+  function build() {
+    if (built) return; built = true;
+    var st = document.createElement("style");
+    st.textContent = "#ksaiWrap{position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center}"
+      + "#ksaiWrap .ksai-mask{position:absolute;inset:0;background:rgba(4,8,20,.62)}"
+      + "#ksaiWrap .ksai-panel{position:relative;width:430px;max-width:94vw;background:#141b30;border:1px solid #2c3a63;border-radius:12px;padding:16px 20px 14px;color:#e2e8ff;font-size:13px;line-height:1.6}"
+      + "#ksaiWrap h3{margin:0 0 10px;font-size:15px}"
+      + "#ksaiWrap label{display:block;margin:8px 0 3px;color:#9fb0d8}"
+      + "#ksaiWrap input,#ksaiWrap select{width:100%;box-sizing:border-box;padding:7px 9px;border-radius:8px;border:1px solid #2c3a63;background:#0d1424;color:#e2e8ff;font-size:13px}"
+      + "#ksaiWrap .ksai-hint{color:#7f90b8;font-size:12px;margin-top:8px}"
+      + "#ksaiWrap .ksai-btns{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}"
+      + "#ksaiWrap button{padding:7px 14px;border-radius:8px;border:1px solid #2c3a63;background:#1b2542;color:#dfe6ff;cursor:pointer}"
+      + "#ksaiWrap #ksaiSave{background:#4f6ef7;border-color:#4f6ef7}";
+    document.head.appendChild(st);
+    var wrap = document.createElement("div");
+    wrap.id = "ksaiWrap";
+    wrap.innerHTML = '<div class="ksai-mask" id="ksaiMask"></div><div class="ksai-panel">'
+      + "<h3>AI 供应商设置</h3>"
+      + '<label>供应商</label><select id="ksaiProv"></select>'
+      + '<label>API Key</label><input id="ksaiKey" type="password" autocomplete="off">'
+      + '<div class="ksai-hint" id="ksaiKeyHint"></div>'
+      + '<label>模型(可下拉或手输, 火山填接入点ID)</label><input id="ksaiModel" list="ksaiModels">'
+      + '<datalist id="ksaiModels"></datalist>'
+      + '<label>Base URL</label><input id="ksaiBase">'
+      + '<div class="ksai-hint">Key 仅保存在本机 data/ai_config.json, 不上传; 保存即时生效, 无需重启。</div>'
+      + '<div class="ksai-btns"><button id="ksaiTest">测试连接</button>'
+      + '<button id="ksaiSave">保存</button><button id="ksaiClose">关闭</button></div></div>';
+    document.body.appendChild(wrap);
+    var sel = $("ksaiProv");
+    Object.keys(PROV).forEach(function (k) {
+      var o = document.createElement("option"); o.value = k; o.textContent = PROV[k].label; sel.appendChild(o);
+    });
+    sel.addEventListener("change", function () { fillModels(sel.value); });
+    $("ksaiMask").addEventListener("click", close);
+    $("ksaiClose").addEventListener("click", close);
+    $("ksaiSave").addEventListener("click", save);
+    $("ksaiTest").addEventListener("click", test);
+  }
+  function open() {
+    build();
+    fetch("/api/ai/config").then(function (r) { return r.json(); }).then(function (res) {
+      var d = res.data || {};
+      var pid = d.provider && PROV[d.provider] ? d.provider : "zhipu";
+      $("ksaiProv").value = pid;
+      fillModels(pid);
+      if (d.model) $("ksaiModel").value = d.model;
+      if (d.base_url) $("ksaiBase").value = d.base_url;
+      $("ksaiKey").value = "";
+      $("ksaiKey").placeholder = d.has_key ? ("已设置 " + d.key_masked + " (留空=不修改)") : "粘贴供应商的 API Key";
+    });
+  }
+  function payload() {
+    return { provider: $("ksaiProv").value, key: $("ksaiKey").value.trim(),
+             model: $("ksaiModel").value.trim(), base_url: $("ksaiBase").value.trim() };
+  }
+  function save() {
+    fetch("/api/ai/config", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload()) })
+      .then(function (r) { return r.json(); })
+      .then(function (res) {
+        if (res.code === 0) { toast("已保存, 即时生效", false); open(); }
+        else toast(res.msg || res.message || "保存失败", true);
+      });
+  }
+  function test() {
+    toast("测试中...", false);
+    fetch("/api/ai/config/test", { method: "POST" })
+      .then(function (r) { return r.json(); })
+      .then(function (res) {
+        if (res.code === 0) toast("连通正常: " + (res.data.reply || "OK"), false);
+        else toast(res.msg || res.message || "连通失败", true);
+      });
+  }
+  var btn = document.getElementById("btnAISet");
+  if (btn) btn.addEventListener("click", open);
+})();

@@ -6,13 +6,13 @@
 - 三学段知识图谱可视化 (6000+ 节点, 力导向星图, 可缩放/搜索/定位)
 - 前置依赖推理: 自动高亮"当前可学"边界, 掌握一个解锁一片
 - 掌握度追踪 (本地 SQLite), 快照保存/恢复
-- AI 中文讲解 / 按需翻译 (可选, 填自己的 API Key 即启用; 小学英文节点已内置 286 条预热译文)
+- AI 中文讲解 / 按需翻译 (可选, 点页面右上角 [AI 设置] 选供应商粘贴 Key 即时生效; 小学英文节点已内置 286 条预热译文)
 
 ## 快速开始 (零编程环境)
 1. 到 [Releases](../../releases) 下载 KnowledgeStars-win64.zip
 2. 解压到任意文件夹, 双击 KnowledgeStars.exe (黑窗口是服务本体, 别关; 用完关掉即退出)
 3. 浏览器自动打开星图
-4. 可选 AI: 复制 .env.example 为 .env, 填入智谱或 GitHub Models 的 Key
+4. 可选 AI: 点页面右上角 [AI 设置], 选供应商粘贴 Key(或编辑 .env)
 
 进度存档在 data/student_progress.db, 备份它即备份全部学习记录。
 
@@ -35,7 +35,7 @@ python launcher.py
 |---|---|---|
 | marble-data/ | [Marble Skill Taxonomy v1](https://github.com/withmarbleapp/os-taxonomy) | ODbL 1.0 (数据库) / CC BY-SA 4.0 (内容) |
 | pep-data/ | 人教版初中数学知识图谱 (循 os-taxonomy 结构整理) | ODbL 1.0 / CC BY-SA 4.0; 教材相关内容仅供学习研究 |
-| k12-data/ k12kgraph-hf/ | [K12-KGraph (HuggingFace)](https://huggingface.co/datasets/lhpku20010120/K12-KGraph) | <许可待补: 见 k12-data/README.md> |
+| k12-data/ k12kgraph-hf/ | [K12-KGraph (HuggingFace)](https://huggingface.co/datasets/lhpku20010120/K12-KGraph) | 来源页未附许可文本; 学术数据集, 仅供学习研究, 禁止商业用途 |
 
 Marble 数据要求之署名声明 (在此郑重给出):
 

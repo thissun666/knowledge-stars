@@ -39,7 +39,7 @@ def is_configured() -> bool:
 def call_llm(content: str = "", system: str = "",
              messages: Optional[List[dict]] = None) -> str:
     if not is_configured():
-        raise AIError("AI_API_KEY 未配置, 请在 .env 填入智谱 Key 后重启服务")
+        raise AIError("AI 未配置: 点右上角 [AI 设置], 选供应商填 Key 即可(即时生效)")
     if messages is None:
         messages = []
         if system:

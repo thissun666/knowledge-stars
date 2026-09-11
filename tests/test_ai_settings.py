@@ -10,6 +10,7 @@ from backend import ai_settings, config
 def clean():
     saved = (getattr(config, "AI_PROVIDER", ""), config.AI_API_KEY,
              config.AI_MODEL, config.AI_BASE_URL)
+    config.AI_API_KEY = ""  # 屏蔽.env真实Key, 用例不依赖环境
     if ai_settings.FILE.exists():
         ai_settings.FILE.unlink()
     yield

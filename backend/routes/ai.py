@@ -51,8 +51,8 @@ class GradeIn(BaseModel):
 def _topic_or_err(gs, topic_key: str):
     if not ai_service.is_configured():
         return None, schemas.err(
-            "未配置 AI_API_KEY, 请在 .env 填入智谱 Key "
-            "(open.bigmodel.cn 免费申请)并重启服务", code=5)
+            "AI 未配置: 点右上角 [AI 设置], 选供应商填 Key 即可 "
+            "保存后即时生效", code=5)
     topic = gs.graph.nodes.get(topic_key)
     if topic is None:
         return None, schemas.err("未知知识点: " + topic_key, code=2)
@@ -219,3 +219,34 @@ def ai_grade(body: GradeIn):
     correct = ai_service.parse_judgement(content)
     logger.debug("批改: %s 判定=%s", body.topic_key, correct)
     return schemas.ok({"content": content, "correct": correct})
+
+
+class AISettingsIn(BaseModel):
+    provider: str = ""
+    key: str = ""
+    model: str = ""
+    base_url: str = ""
+
+
+@router.get("/ai/config")
+def ai_config_get():
+    return schemas.ok(ai_settings.current())
+
+
+@router.post("/ai/config")
+def ai_config_set(body: AISettingsIn):
+    try:
+        d = ai_settings.apply(body.provider, body.key, body.model, body.base_url)
+    except ValueError as exc:
+        return schemas.err(str(exc), code=1)
+    return schemas.ok({"provider": d["provider"], "model": d["model"],
+                       "base_url": d["base_url"]})
+
+
+@router.post("/ai/config/test")
+def ai_config_test():
+    try:
+        reply = ai_service.call_llm("只回复两个字母: OK", system="连通性测试")
+    except ai_service.AIError as exc:
+        return schemas.err(str(exc), code=6)
+    return schemas.ok({"reply": reply[:60]})
