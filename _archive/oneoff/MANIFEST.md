@@ -1,0 +1,60 @@
+# 一次性脚本归档清单
+
+归档时间: 2026-09-10 10:42
+数量: 52
+
+均为一次性补丁/诊断脚本, 效果已并入 backend/ 或 data/ 产物;
+本目录仅供审计追溯, 可整体删除。
+
+- audit_phase2_pilot.py
+- diag_hs_candidates.py
+- extract_subject.py
+- fix_build_isolation.py
+- inspect_ai_meta.py
+- inspect_loader.py
+- inspect_meta.py
+- inspect_phase15.py
+- inspect_prereq_match.py
+- inspect_recommend.py
+- inspect_roots.py
+- locate_phase2_hook.py
+- patch_phase2_v21.py
+- probe_k12.py
+- purge_hs_map.py
+- scan_k12_shapes.py
+- setup_cachebust.py
+- setup_phase1.py
+- setup_phase10_rec.py
+- setup_phase10_rec2.py
+- setup_phase10_rec3.py
+- setup_phase11_links.py
+- setup_phase15.py
+- setup_phase1_hotfix.py
+- setup_phase1_hotfix2.py
+- setup_phase1_hotfix3.py
+- setup_phase1_hotfix4.py
+- setup_phase2.py
+- setup_phase2_fix.py
+- setup_phase2_hotfix5.py
+- setup_phase2_prepv2.py
+- setup_phase2_repair.py
+- setup_phase2_wire.py
+- setup_phase3.py
+- setup_phase4.py
+- setup_phase4_hotfix1.py
+- setup_phase4_hotfix2.py
+- setup_phase5.py
+- setup_phase5_hotfix1.py
+- setup_phase6.py
+- setup_phase6_hotfix1.py
+- setup_phase7.py
+- setup_phase7_hotfix1.py
+- setup_phase7_hotfix2.py
+- setup_phase8_data.py
+- setup_phase8_layout.py
+- setup_phase8_layout2.py
+- setup_phase8_layout3.py
+- setup_phase8_wire.py
+- setup_phase9_hotfix.py
+- setup_phase9_kkg.py
+- setup_phase9_meta.py

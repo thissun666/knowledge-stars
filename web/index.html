@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>知识点星图</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand">知识点星图</div>
+  <div class="chips" id="bandChips">
+    <button class="chip band active" data-band="">全部</button>
+    <button class="chip band" data-band="小学">小学</button>
+    <button class="chip band" data-band="初中">初中</button>
+    <button class="chip band" data-band="高中">高中</button>
+  </div>
+  <div class="chips" id="subjectChips"></div>
+  <label class="toggle"><input type="checkbox" id="onlyBoundary">只看边界</label>
+  <div class="search">
+    <input id="searchInput" type="text" placeholder="搜索知识点名, 回车定位" autocomplete="off">
+    <div id="searchList" class="search-list hidden"></div>
+  </div>
+  <div class="btns">
+    <button id="btnContinue">继续学习</button>
+    <button id="btnPath">推荐路径</button>
+    <button id="btnSnapshot">保存快照</button>
+    <button id="btnRestore">恢复快照</button>
+  </div>
+  <div class="stats" id="statsBar">加载中...</div>
+</header>
+<main id="stage">
+  <canvas id="canvas"></canvas>
+  <div id="tooltip" class="hidden"></div>
+  <div id="legend">
+    <span><i class="dot c-mastered"></i>已掌握</span>
+    <span><i class="dot c-learning"></i>学习中</span>
+    <span><i class="dot c-locked"></i>待学习</span>
+    <span><i class="ring"></i>当前边界(现在可学)</span>
+  </div>
+  <div class="hint">滚轮缩放 | 拖空白平移 | 拖节点移动 | 点节点详情 | 双击空白复位</div>
+  <div id="zoomCtl">
+    <button id="zoomIn">+</button>
+    <button id="zoomOut">-</button>
+    <button id="zoomFit">复位</button>
+  </div>
+  <div id="loading" class="overlay">正在加载星图...</div>
+</main>
+<div id="modalRoot" class="hidden"></div>
+<div id="toastRoot"></div>
+<script src="/js/api.js?v=16"></script>
+<script src="/js/sim.js?v=16"></script>
+<script src="/js/render.js?v=16"></script>
+<script src="/js/ui.js?v=16"></script>
+<script src="/js/main.js?v=16"></script>
+</body>
+</html>

@@ -1,0 +1,7049 @@
+[
+ {
+  "from": "k12:000fc1be-b1eb-4ea1-9b2e-46f5d8c14ddf",
+  "to": "k12:99d9d137-60ca-4f72-8c1b-389524682309",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "英语基本句型结构分析"
+ },
+ {
+  "from": "k12:000fc1be-b1eb-4ea1-9b2e-46f5d8c14ddf",
+  "to": "k12:ebd0dab2-ebe4-445d-8776-3949e6f9b8c4",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "英语基本句型结构分析"
+ },
+ {
+  "from": "k12:0028abff-6c2b-4259-a858-9b54791d20e2",
+  "to": "k12:14eece81-d7f9-4fe5-b1fb-a3110a46af48",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《夜书所见》季节特征与情感基调辨析"
+ },
+ {
+  "from": "k12:021622ac-2179-45c0-b44d-5ea29030fa69",
+  "to": "k12:e2b2f170-6f40-4387-b8bf-5e8d0fede482",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "共点力的合成——平行四边形定则"
+ },
+ {
+  "from": "k12:02174da0-415c-4b22-af67-96236b11a31a",
+  "to": "k12:28c04cd4-40f4-49fc-bbe2-615497370003",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "串联电路电流处处相等规律"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:14df7848-b272-429f-9155-74f7d0ff7cd5",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:195ea925-3990-44ed-a740-8c3d2b9d8775",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:3b70f0a3-a5c9-4687-ad0d-4ceec4197605",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:50e8e770-de55-48c5-ac75-0ab17d479b5a",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:e0dded39-fdb8-4b6a-b203-85e8f9a6a4a9",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:f0236086-046a-4fe9-aa4d-3035cc9a996a",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:f2d5d167-3377-4291-be87-fe31e1e4fc88",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:035358f8-3f4d-41db-8e29-6a10e8912e6c",
+  "to": "k12:ff06dc95-cde3-49bd-ad53-4ac4195f9cd5",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 8,
+  "subject": "语文",
+  "node": "四年级默读策略：带着问题快速提取关键信息"
+ },
+ {
+  "from": "k12:038bbc7c-fa74-49b0-bd8d-67f27b2fb4bb",
+  "to": "k12:88588b31-2d5f-43a6-968b-41c0c1b5b9b4",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "数字一至五的认读与书写"
+ },
+ {
+  "from": "k12:03b12f74-0b85-424c-a6fe-21c1a20763fe",
+  "to": "k12:25a19481-fbf6-411e-82c3-ac25f5abe9c3",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "《岳阳楼记》核心文言虚词用法（夫、其、以）"
+ },
+ {
+  "from": "k12:03b12f74-0b85-424c-a6fe-21c1a20763fe",
+  "to": "k12:4d65fa02-669a-419c-839d-9bc655a2536d",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "《岳阳楼记》核心文言虚词用法（夫、其、以）"
+ },
+ {
+  "from": "k12:03b12f74-0b85-424c-a6fe-21c1a20763fe",
+  "to": "k12:6186ab38-3220-4156-a21e-c02d46fb3c41",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "《岳阳楼记》核心文言虚词用法（夫、其、以）"
+ },
+ {
+  "from": "k12:03b12f74-0b85-424c-a6fe-21c1a20763fe",
+  "to": "k12:9a78ea69-5bca-456d-9d07-d2196ece7b9c",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "《岳阳楼记》核心文言虚词用法（夫、其、以）"
+ },
+ {
+  "from": "k12:054171c3-f8b0-476e-bd94-58a56b060a4e",
+  "to": "k12:38716535-16cb-4f31-aeb3-61d145077677",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "新闻事实与评论语言的区分"
+ },
+ {
+  "from": "k12:054171c3-f8b0-476e-bd94-58a56b060a4e",
+  "to": "k12:43fcc96e-369b-4810-ae90-073beda1d841",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "新闻事实与评论语言的区分"
+ },
+ {
+  "from": "k12:054171c3-f8b0-476e-bd94-58a56b060a4e",
+  "to": "k12:9138a2c1-ca9c-4c0c-989c-eef81cdfc008",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "新闻事实与评论语言的区分"
+ },
+ {
+  "from": "k12:054171c3-f8b0-476e-bd94-58a56b060a4e",
+  "to": "k12:c0e134fb-2076-482b-9d52-a3b87789c7d1",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "新闻事实与评论语言的区分"
+ },
+ {
+  "from": "k12:054171c3-f8b0-476e-bd94-58a56b060a4e",
+  "to": "k12:efd942ea-61d0-4c13-afdf-4803f7a8888a",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "新闻事实与评论语言的区分"
+ },
+ {
+  "from": "k12:0593395b-76b0-4c8c-b782-de56a5478e6e",
+  "to": "k12:b040b402-70a7-430b-9057-473938590a0a",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "儿歌节奏与押韵的初步感知"
+ },
+ {
+  "from": "k12:060d1049-dccb-4b47-8835-fa3a6787510a",
+  "to": "k12:19ffa525-5325-42f0-86ed-e479bd29b380",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "记叙文六要素"
+ },
+ {
+  "from": "k12:060d1049-dccb-4b47-8835-fa3a6787510a",
+  "to": "k12:76f35c6e-a0f9-4bd2-9088-a2dce8f593dd",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "记叙文六要素"
+ },
+ {
+  "from": "k12:060d1049-dccb-4b47-8835-fa3a6787510a",
+  "to": "k12:c35bef1c-4b40-4f29-bbf6-bb553d54d740",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "记叙文六要素"
+ },
+ {
+  "from": "k12:060d1049-dccb-4b47-8835-fa3a6787510a",
+  "to": "k12:d6a19435-600b-4d17-b601-1ac3dca2da31",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "记叙文六要素"
+ },
+ {
+  "from": "k12:060d1049-dccb-4b47-8835-fa3a6787510a",
+  "to": "k12:eeba3eea-b7ac-4fed-a6f1-a9be5e1bc6fe",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "记叙文六要素"
+ },
+ {
+  "from": "k12:0681a194-7157-4320-beee-87654563548c",
+  "to": "k12:5a71bd51-8716-4e2e-85bd-66012a3afcb5",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "情态动词 can/could 表特殊能力与可能性"
+ },
+ {
+  "from": "k12:0681a194-7157-4320-beee-87654563548c",
+  "to": "k12:78916906-e636-4128-b141-5dce6fc1f69f",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "情态动词 can/could 表特殊能力与可能性"
+ },
+ {
+  "from": "k12:06b6c3d4-e176-4fb1-8fb3-d77c4f8d5752",
+  "to": "k12:1eb5ec13-eb61-4155-a3b2-58788ef469c7",
+  "via": "phase2",
+  "sim": 0.78,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "阅读：安全主题说明文理解与信息提取"
+ },
+ {
+  "from": "k12:075e365b-e772-45b2-8112-ea8f400412a6",
+  "to": "k12:54bcb31a-8ac0-4c2f-9474-432590ebd1b3",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "过去完成时与一般过去时的时序对比"
+ },
+ {
+  "from": "k12:075e365b-e772-45b2-8112-ea8f400412a6",
+  "to": "k12:cd0c7af2-2a90-4f66-b499-c01ace6b450d",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "过去完成时与一般过去时的时序对比"
+ },
+ {
+  "from": "k12:075e365b-e772-45b2-8112-ea8f400412a6",
+  "to": "k12:e41837b5-7cf5-4b49-a774-d275cc615373",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "过去完成时与一般过去时的时序对比"
+ },
+ {
+  "from": "k12:082e8071-ba07-4c69-b4ca-4b9e2a514185",
+  "to": "k12:6aa7856f-ddc5-4596-97d4-3c8146bdaf3e",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "情景交融与借景抒情"
+ },
+ {
+  "from": "k12:082e8071-ba07-4c69-b4ca-4b9e2a514185",
+  "to": "k12:84058872-a6ff-451d-b4b0-8aab823b6b7a",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "情景交融与借景抒情"
+ },
+ {
+  "from": "k12:082e8071-ba07-4c69-b4ca-4b9e2a514185",
+  "to": "k12:8d7d6881-5181-41ba-9fdc-7482f2f2fd6d",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "情景交融与借景抒情"
+ },
+ {
+  "from": "k12:082e8071-ba07-4c69-b4ca-4b9e2a514185",
+  "to": "k12:e36441bc-583d-442b-8247-b6b9ebe5c1ef",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "情景交融与借景抒情"
+ },
+ {
+  "from": "k12:082e8071-ba07-4c69-b4ca-4b9e2a514185",
+  "to": "k12:e83a0386-bb20-47d6-820a-02ccca3c9dab",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "情景交融与借景抒情"
+ },
+ {
+  "from": "k12:085ff1d6-663e-41aa-b183-df53e17db52f",
+  "to": "k12:975ec122-909a-4415-809a-6a59b41b8fac",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "分子动理论三基本观点"
+ },
+ {
+  "from": "k12:085ff1d6-663e-41aa-b183-df53e17db52f",
+  "to": "k12:acca7428-d296-4cc0-8193-cdd7b17c66eb",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "分子动理论三基本观点"
+ },
+ {
+  "from": "k12:095c3717-a81f-4398-ada8-757c7b6f5111",
+  "to": "k12:8f4ee84f-52ee-4fe1-b625-af8406991a6b",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "高倍显微镜的使用方法"
+ },
+ {
+  "from": "k12:09723f0e-75fe-4a5f-afb7-ccddf6e03416",
+  "to": "k12:1594b105-0ee8-4651-bef9-eb580689b697",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "勤俭家国观的古诗文名句积累与理解"
+ },
+ {
+  "from": "k12:0a87fee7-bbf6-44ab-b797-30356adf9e7a",
+  "to": "k12:7b0a38b5-1f54-4b5e-81a9-fc0eb5e4691e",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在分词作定语"
+ },
+ {
+  "from": "k12:0abee599-e6e0-4181-bfb8-1c1af063de15",
+  "to": "k12:caa92546-0c55-449a-b3a5-c9b22e1804dc",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "二氧化硫的可逆反应与化学平衡初步认知"
+ },
+ {
+  "from": "k12:0abee599-e6e0-4181-bfb8-1c1af063de15",
+  "to": "k12:cbc68c5f-59f9-41a7-b1ea-aedcf55ec0ce",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "二氧化硫的可逆反应与化学平衡初步认知"
+ },
+ {
+  "from": "k12:0abee599-e6e0-4181-bfb8-1c1af063de15",
+  "to": "k12:e72a8ccb-ade9-4fbc-804f-caaa4d1240a0",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "二氧化硫的可逆反应与化学平衡初步认知"
+ },
+ {
+  "from": "k12:0b0a6488-abe5-4991-9d48-093f815090ef",
+  "to": "k12:ec8beb6b-60f9-42ee-9599-e77aaa32cb0d",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "DNA复制的过程与条件"
+ },
+ {
+  "from": "k12:0b0a6488-abe5-4991-9d48-093f815090ef",
+  "to": "k12:fe4c5c08-ba67-4c1e-ad31-838fac04449c",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "DNA复制的过程与条件"
+ },
+ {
+  "from": "k12:0b254333-d2a7-4457-95f0-52869c497bb2",
+  "to": "k12:40288c51-d262-4c0e-94f9-db14bda42d67",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "LC振荡电路的固有周期与频率公式"
+ },
+ {
+  "from": "k12:0c0660c6-532f-4e60-8689-4f53b214309b",
+  "to": "k12:548e82ca-91a1-4435-8a07-389470116c9a",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "限制性与非限制性定语从句的初步区分"
+ },
+ {
+  "from": "k12:0c6ea84a-cc06-48a7-be3c-cee6671746dc",
+  "to": "k12:eb21b25c-3cf7-4909-a64c-76a3fd1e220b",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物形象分析"
+ },
+ {
+  "from": "k12:0cea0a75-23a9-4810-9d80-12d597674a44",
+  "to": "k12:5768a3c4-ccf6-431f-abd1-588213f6dc94",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞结构与功能对应"
+ },
+ {
+  "from": "k12:0d70c9ce-a1c9-4e92-98fb-d2a24f5b56ce",
+  "to": "k12:24d643b0-7234-4412-9087-3e58b5eb137a",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "物质结构与性质的关系（以硫、氮为例）"
+ },
+ {
+  "from": "k12:0dda629f-38f9-43ac-a15c-18559bdf4d11",
+  "to": "k12:ca634dd7-ff8b-40be-a8ea-be3482ae2f80",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "心理活动描写的识别与解读"
+ },
+ {
+  "from": "k12:0e7c964e-8e86-4f0d-8ab2-b19616322ef6",
+  "to": "k12:4f682eea-03aa-4bed-8e4a-4fa1ace492ea",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "热化学方程式的书写规范与解读"
+ },
+ {
+  "from": "k12:0e7c964e-8e86-4f0d-8ab2-b19616322ef6",
+  "to": "k12:fa85b55a-3a96-416a-a40f-3dc1fa6c0ca4",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "热化学方程式的书写规范与解读"
+ },
+ {
+  "from": "k12:0ebfadba-2c92-4cc6-ae6b-0dcb6ba24019",
+  "to": "k12:4d5fa6fd-f504-4189-a4de-7ccf0d7c7351",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "段落主旨句识别策略"
+ },
+ {
+  "from": "k12:0ebfadba-2c92-4cc6-ae6b-0dcb6ba24019",
+  "to": "k12:d0b22310-36f9-451c-8ef4-307f11b1dbe3",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "段落主旨句识别策略"
+ },
+ {
+  "from": "k12:0f0cde6c-d5e7-4d66-b733-291b21ee1cd7",
+  "to": "k12:cb52d717-f9fb-43c5-b826-2606ef55d2f6",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "速度单位换算（m/s 与 km/h）"
+ },
+ {
+  "from": "k12:0f1c0889-3b9e-4da7-9fde-ec3c1d20937f",
+  "to": "k12:faa50f47-1a3f-4da0-9d3a-fcce97e16666",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "基因重组的进化意义"
+ },
+ {
+  "from": "k12:0f1f974f-9d08-410f-8b56-de187b281eaf",
+  "to": "k12:20ace9e3-4643-4272-ab22-cd5a1a0dbd6e",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "借助拼音认读生字词（爸爸、妈妈）"
+ },
+ {
+  "from": "k12:0f1f974f-9d08-410f-8b56-de187b281eaf",
+  "to": "k12:5b54b271-d416-42b5-9b37-3e19a3182436",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "借助拼音认读生字词（爸爸、妈妈）"
+ },
+ {
+  "from": "k12:0f32a65a-5abe-4699-abc4-54a2fac11fd3",
+  "to": "k12:49a31bec-7b94-49e1-ad92-ffdc0d391819",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "动物细胞基本结构识别与功能"
+ },
+ {
+  "from": "k12:0f8da771-b459-4edf-a07a-0218c24889df",
+  "to": "k12:95fc8536-1a9a-4137-80b9-abbc9e234a4c",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 3,
+  "subject": "物理",
+  "node": "牛顿第一定律内容与适用条件"
+ },
+ {
+  "from": "k12:0f8da771-b459-4edf-a07a-0218c24889df",
+  "to": "k12:ac7ca401-6780-4857-b890-f3336b2950d6",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 3,
+  "subject": "物理",
+  "node": "牛顿第一定律内容与适用条件"
+ },
+ {
+  "from": "k12:0f8da771-b459-4edf-a07a-0218c24889df",
+  "to": "k12:df40cb0b-22bc-457d-a4ba-1b1d03f884ed",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 3,
+  "subject": "物理",
+  "node": "牛顿第一定律内容与适用条件"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:01de6cdd-7d4e-4587-92e3-b5617ff785f3",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:03d7913c-57bd-4e7f-8814-97c994b2c6cd",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:0462308f-9b1c-4e6f-a1b3-448285067a07",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:265b56a1-99b4-49df-81ae-9bb69af1fa3f",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:7fd1cc1d-fc1f-4024-9cb9-785e62a47e82",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:8ba41261-820d-44db-bc7b-6e0694267f2a",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:8bbdd467-c67d-4712-a398-69efefea7be2",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:9db53c32-c149-4e30-af91-1bdad652f21b",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:ab78b79c-2b4b-44b1-985f-c46925be42b6",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:118e68bb-352c-40fd-8e7f-b9c471e840ce",
+  "to": "k12:d63a6d81-5728-44e1-8906-e87496aede86",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "基本笔画横竖撇捺的认读与书写"
+ },
+ {
+  "from": "k12:11b5cc88-080b-4e8d-a0c8-e00a9fc68683",
+  "to": "k12:a8718192-d976-43f2-a4fb-a5d54806e1cb",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "赫耳墨斯和雕像者中伊索寓言三段式叙事结构（铺垫→反转→寓意）"
+ },
+ {
+  "from": "k12:122283f1-0673-4c96-b615-148bcd877a55",
+  "to": "k12:5812c181-a26d-4f87-8ea5-d3c6e4d378d6",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "醛基的结构与醛类通式"
+ },
+ {
+  "from": "k12:122283f1-0673-4c96-b615-148bcd877a55",
+  "to": "k12:cd132cdb-5d28-4b1b-934b-1e49f2886693",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "醛基的结构与醛类通式"
+ },
+ {
+  "from": "k12:124ee2c3-c96b-4683-9869-771c7edafdca",
+  "to": "k12:e2aa6ac7-a02a-43ab-b325-8eda2459488a",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "X连锁显性遗传"
+ },
+ {
+  "from": "k12:124ee2c3-c96b-4683-9869-771c7edafdca",
+  "to": "k12:e36633a6-732b-4f8c-a606-cfc8d2e46cbb",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "X连锁显性遗传"
+ },
+ {
+  "from": "k12:13cb6db6-e311-4d2d-bb33-114d155ba70b",
+  "to": "k12:041243e9-704d-41ae-96d9-28dcff41d19a",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "酚羟基的检验（FeCl₃显色法）"
+ },
+ {
+  "from": "k12:13ea8ec1-7170-4da0-bc2c-882407e2ad26",
+  "to": "k12:2cb50d58-4098-4f34-83aa-a52560b6d07b",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "would like + to-do 结构"
+ },
+ {
+  "from": "k12:13f99cbe-831e-45f7-875e-3ed3be4a07e2",
+  "to": "k12:1f630dc1-5701-4f28-8b8b-c288af2f1520",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生态系统的自我调节能力与稳定性"
+ },
+ {
+  "from": "k12:14991a4a-43ad-4100-9333-87fd360a104d",
+  "to": "k12:9df6bf9c-6537-4aed-88a5-1d7970ee7025",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "浓硫酸的吸水性与脱水性"
+ },
+ {
+  "from": "k12:14e2e158-a350-4618-9ef5-71d3023857bc",
+  "to": "k12:cc440273-77e3-4b40-9471-a9022392f22e",
+  "via": "phase2",
+  "sim": 0.68,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "‘州、华、涌、耸、隔、峡、与、陆、各、谊、浓、齐、奋、繁’十四字认读与书写基础"
+ },
+ {
+  "from": "k12:14ef46e6-834d-412b-927b-860b7395842c",
+  "to": "k12:e6cc47fb-06c2-4e70-8c99-e6cc7309f878",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "显性性状与隐性性状的定义及性状分离概念"
+ },
+ {
+  "from": "k12:1593f95b-4007-486d-8dba-c04c981c01c1",
+  "to": "k12:df58cdb0-b261-44dc-8f5a-ebc069ac721e",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "引用论证的识别与效果分析"
+ },
+ {
+  "from": "k12:15f4db22-3621-4ae1-8c6a-6fe9c4220812",
+  "to": "k12:73a53f77-4d32-467b-a057-1709e5ad8808",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "基因型与表现型的关系"
+ },
+ {
+  "from": "k12:15f4db22-3621-4ae1-8c6a-6fe9c4220812",
+  "to": "k12:7d771a36-9823-4318-8c0d-87c5cee5277e",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "基因型与表现型的关系"
+ },
+ {
+  "from": "k12:15f4db22-3621-4ae1-8c6a-6fe9c4220812",
+  "to": "k12:f48c4f53-84fd-476b-b01a-b0adcf7b1db8",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "基因型与表现型的关系"
+ },
+ {
+  "from": "k12:16603d55-b864-4c71-88ee-5f04b64c5515",
+  "to": "k12:95018449-2cae-4211-94d2-ab4fa2446cc6",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物通讯的三要素分析能力"
+ },
+ {
+  "from": "k12:1677a655-00b2-4ad0-90f2-ea005f28d6e7",
+  "to": "k12:935868e1-9fab-40bb-a445-e09e5f0e32fb",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "铵盐的热不稳定性与碱解反应"
+ },
+ {
+  "from": "k12:1735e371-34c5-4986-8810-002518c20b81",
+  "to": "k12:5ade2fe6-51c2-4f18-ad2a-91c1091b58e5",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "声母 g k h 参与的三拼音节拼读"
+ },
+ {
+  "from": "k12:17944447-bbee-442d-a6c4-4f72b3e17b41",
+  "to": "k12:be8dfbae-c41e-44bb-8498-7947fb15f186",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "离子反应与离子方程式的概念"
+ },
+ {
+  "from": "k12:17bba6b3-4cb6-4ee0-a52f-a04d619e4341",
+  "to": "k12:df601875-bb5c-45dc-b0be-035d0994b588",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "健康类记叙文的情节理解与细节提取"
+ },
+ {
+  "from": "k12:17d5a5d7-5f97-4dd0-887b-4bacb8a17572",
+  "to": "k12:de1891ae-ebfe-4e97-a0c8-71f60a64d56f",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "心理活动描写"
+ },
+ {
+  "from": "k12:18693c15-089d-49e3-8cab-13d6be7fc918",
+  "to": "k12:887a6447-051e-4583-b784-a88147921ceb",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "剪接体的结构与功能关系"
+ },
+ {
+  "from": "k12:18693c15-089d-49e3-8cab-13d6be7fc918",
+  "to": "k12:88816326-475a-44e8-97f3-6f516e722470",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "剪接体的结构与功能关系"
+ },
+ {
+  "from": "k12:18693c15-089d-49e3-8cab-13d6be7fc918",
+  "to": "k12:a0794a8f-dbae-4dd4-91ea-62de7bdf4561",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "剪接体的结构与功能关系"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:0f32a7f0-7e4e-43fd-be51-214bd92308f9",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:299fe08d-4120-44d1-9d4b-13c632bb6df7",
+  "via": "phase2",
+  "sim": 0.24,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:a479f247-802d-4083-90ba-606740cff481",
+  "via": "phase2",
+  "sim": 0.24,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:abc5c378-0538-4f29-853a-00e466968ca9",
+  "via": "phase2",
+  "sim": 0.24,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:ae930fed-b91a-4e98-a2eb-6f0bcb2a44f6",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:192fa153-85d2-46f7-8955-024e6d43b9d3",
+  "to": "k12:c873fe27-5493-45db-b8be-363fb51abb3a",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "Because引导的原因状语从句（基础问答形式）"
+ },
+ {
+  "from": "k12:1939aa97-07a5-4332-ae05-a28b49d4e50e",
+  "to": "k12:21614026-15f4-4102-b94b-2b68ce84051d",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "非生物因素与生物因素的辨析"
+ },
+ {
+  "from": "k12:198816d1-3ed1-474e-a879-d91d0cb100ef",
+  "to": "k12:301994bb-a63e-4da7-a28d-05639be75a1d",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的化合价判据"
+ },
+ {
+  "from": "k12:19ebb362-20c6-4ebb-ad27-57152abd2ef4",
+  "to": "k12:6b985541-9646-4d86-a436-3f0665dae91e",
+  "via": "phase2",
+  "sim": 0.77,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "位移—时间图像（x-t图像）的物理意义"
+ },
+ {
+  "from": "k12:19ebb362-20c6-4ebb-ad27-57152abd2ef4",
+  "to": "k12:b55b546d-53fa-4b90-b2de-efeb1aea7b88",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "位移—时间图像（x-t图像）的物理意义"
+ },
+ {
+  "from": "k12:1a6cb7a0-0e5d-4e66-81a6-1b18bb1fffc3",
+  "to": "k12:5f017240-c8b3-4e72-84c5-5abbe36e48ea",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时第三人称单数动词变化规则与主谓一致"
+ },
+ {
+  "from": "k12:1a6cb7a0-0e5d-4e66-81a6-1b18bb1fffc3",
+  "to": "k12:87242c45-f949-4d4d-8567-bb5f107d93db",
+  "via": "phase2",
+  "sim": 0.24,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时第三人称单数动词变化规则与主谓一致"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:063502d7-ab9b-4c34-bba6-288350df4e9f",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 5,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:663988e5-6e87-49c6-b7aa-8fe20e0925f0",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 5,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:7cb419aa-bb91-4e49-8c00-9c1092e1ab63",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 5,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:b94c6b3a-773b-4783-bff7-a762b794940d",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:c147f96e-bb82-417b-a428-70877b89fccf",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 5,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1aab8991-eafd-488e-90c0-7aa611d3761a",
+  "to": "k12:e9773e8b-ad90-42d0-9ff0-3f4a7d004d7d",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 5,
+  "subject": "化学",
+  "node": "复分解反应概念与发生条件"
+ },
+ {
+  "from": "k12:1b3c2a20-4f8d-4178-b6ac-19f2dd3e445c",
+  "to": "k12:1e906a03-acb0-45b2-a378-6ce1db496e2e",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《式微》四言诗节奏与诵读"
+ },
+ {
+  "from": "k12:1b3c2a20-4f8d-4178-b6ac-19f2dd3e445c",
+  "to": "k12:4dbe5e85-0418-4d1f-ac25-55955aa4055d",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《式微》四言诗节奏与诵读"
+ },
+ {
+  "from": "k12:1b3c2a20-4f8d-4178-b6ac-19f2dd3e445c",
+  "to": "k12:f287f8e7-2baa-4b19-b1c6-825dd6a5110a",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《式微》四言诗节奏与诵读"
+ },
+ {
+  "from": "k12:1de40596-ff81-414f-a2a5-1f6b51b86aad",
+  "to": "k12:7cf1e460-6756-47fb-b82e-02a586940120",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "现在完成时肯定句（have/has + 过去分词）"
+ },
+ {
+  "from": "k12:1de40596-ff81-414f-a2a5-1f6b51b86aad",
+  "to": "k12:a169bc3b-834b-476e-addd-3135ffbaf673",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "现在完成时肯定句（have/has + 过去分词）"
+ },
+ {
+  "from": "k12:1de40596-ff81-414f-a2a5-1f6b51b86aad",
+  "to": "k12:b8e60cb0-bd33-4461-b9b9-c204292add6a",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在完成时肯定句（have/has + 过去分词）"
+ },
+ {
+  "from": "k12:1e15acbb-2ec3-4833-9b1d-575e7053e230",
+  "to": "k12:09c4e297-a0d9-4337-b8cb-055b7d37d2ce",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be supposed to 肯定句结构与用法"
+ },
+ {
+  "from": "k12:1e15acbb-2ec3-4833-9b1d-575e7053e230",
+  "to": "k12:85a8a4f1-88d9-4d90-8bd4-cf661a9e0dbc",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be supposed to 肯定句结构与用法"
+ },
+ {
+  "from": "k12:1e15acbb-2ec3-4833-9b1d-575e7053e230",
+  "to": "k12:86ae41fb-e0d7-42b1-826e-d71cd3050ef4",
+  "via": "phase2",
+  "sim": 0.86,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be supposed to 肯定句结构与用法"
+ },
+ {
+  "from": "k12:1e172a45-68b8-46ec-8981-af9fc8461281",
+  "to": "k12:ca6dd5b1-339a-4b0a-90b8-d17626a1b032",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "乙醇的催化氧化反应（铜催化生成乙醛）"
+ },
+ {
+  "from": "k12:1f18f436-9e70-4ad8-9a78-66ca8cdb7378",
+  "to": "k12:e8fbfe10-51de-4daa-b813-95f404461e25",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "单糖、二糖、多糖的分类与代表物"
+ },
+ {
+  "from": "k12:2173a04e-4bb8-449b-ac74-ca6505fd4d14",
+  "to": "k12:ded78335-ff84-495f-b798-458a09e2b1f7",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学平衡状态的本质特征与常见误判"
+ },
+ {
+  "from": "k12:21b2fdd0-5959-4af7-9685-1c2298d6ad44",
+  "to": "k12:11b29b29-ee13-4838-b1fd-ed8bbe5051af",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "《观沧海》核心意象‘沧海’‘山岛’‘树木’‘秋风’‘洪波’的识别与画面还原"
+ },
+ {
+  "from": "k12:22eec5d5-a6dd-49b4-9229-59ffc0c3d1a7",
+  "to": "k12:010f4566-dfdf-42ad-a369-0761fedb4b8e",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "儿童视角叙事特征"
+ },
+ {
+  "from": "k12:236ed130-530e-4909-9939-0a6896baf666",
+  "to": "k12:87b1ca92-9589-4994-aebd-0910ea34e387",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在进行时的陈述句与一般疑问句结构"
+ },
+ {
+  "from": "k12:23ec7114-2aef-43f3-b306-df480e7d8044",
+  "to": "k12:4e69ff06-df7e-4cdf-888f-09dc89f2f9ce",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 10,
+  "subject": "物理",
+  "node": "法拉第电磁感应定律（n匝线圈）"
+ },
+ {
+  "from": "k12:23f62d60-6c1b-470a-b1a1-4292603c833a",
+  "to": "k12:93dd3d9a-d81e-4c9f-95d9-2e3f5ede9dbb",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "催化剂对化学反应速率的影响"
+ },
+ {
+  "from": "k12:23f62d60-6c1b-470a-b1a1-4292603c833a",
+  "to": "k12:c32668d3-8f7a-4d94-8518-c2c49b266bfc",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "催化剂对化学反应速率的影响"
+ },
+ {
+  "from": "k12:23f62d60-6c1b-470a-b1a1-4292603c833a",
+  "to": "k12:da538bdd-c791-4f4b-9d50-3f60517f48b7",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "催化剂对化学反应速率的影响"
+ },
+ {
+  "from": "k12:242f2894-a800-45af-97bb-386c2c47d5b7",
+  "to": "k12:b8e60cb0-bd33-4461-b9b9-c204292add6a",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "过去时间状语识别与运用"
+ },
+ {
+  "from": "k12:2448ab98-cc6c-4b04-bdcb-eff0b9abf8b0",
+  "to": "k12:7fa1cea3-c706-483e-91f9-3b6d0c45656a",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "基本比较句型（A is more... than B）"
+ },
+ {
+  "from": "k12:2448ab98-cc6c-4b04-bdcb-eff0b9abf8b0",
+  "to": "k12:fe7de355-570c-4765-b641-03c72841c0f7",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "基本比较句型（A is more... than B）"
+ },
+ {
+  "from": "k12:261f461d-90e9-4a27-a473-26417d14b839",
+  "to": "k12:282e4202-3824-4eeb-b78f-9083bcb6917e",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "时间单位及换算"
+ },
+ {
+  "from": "k12:261f461d-90e9-4a27-a473-26417d14b839",
+  "to": "k12:c79efbed-5228-4da8-9d7e-a34666049c5b",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "时间单位及换算"
+ },
+ {
+  "from": "k12:263e33c7-54ef-4c9a-8aee-e0e39010b0bc",
+  "to": "k12:980e9ea5-bf67-4cbe-8512-3800f6760ece",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "食物链与营养级"
+ },
+ {
+  "from": "k12:263e33c7-54ef-4c9a-8aee-e0e39010b0bc",
+  "to": "k12:aca77c5f-1ab4-46f4-ab4f-b7a6332de05b",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "食物链与营养级"
+ },
+ {
+  "from": "k12:2802a779-e68d-4408-998a-71d6e3c31155",
+  "to": "k12:40af115d-a826-4688-887a-bb34a6545d25",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "pH试纸规范使用方法"
+ },
+ {
+  "from": "k12:29464da7-6ad1-4006-8f75-e90e3c5968e5",
+  "to": "k12:87f691b2-18ab-4db0-9739-af6ca7e48473",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "Where is/are 疑问句构成"
+ },
+ {
+  "from": "k12:2a680a10-4df6-4f28-abb9-026cc410b556",
+  "to": "k12:3cd8ece9-f217-404b-bea7-ac631b0f57a9",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "生活细节描写的人物塑造功能"
+ },
+ {
+  "from": "k12:2a680a10-4df6-4f28-abb9-026cc410b556",
+  "to": "k12:5dffa0ac-8cc9-47b8-8cba-1e65ea039ebd",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "生活细节描写的人物塑造功能"
+ },
+ {
+  "from": "k12:2a896707-3f16-4510-9f49-6b263214af25",
+  "to": "k12:41b00478-1925-4c00-b9e1-35e30408a99e",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be going to 表个人计划与意图"
+ },
+ {
+  "from": "k12:2c02508b-8d50-410f-b3b2-1d5007737767",
+  "to": "k12:9161bf9c-ad3b-42b8-8ed0-e7d6abdae804",
+  "via": "phase2",
+  "sim": 0.8,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般过去时肯定句构造"
+ },
+ {
+  "from": "k12:2cb9171b-3352-43ba-ab5e-cd5329bcac4d",
+  "to": "k12:83826a8a-1a0d-4635-9180-160b208865aa",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "卤代烃的消去反应"
+ },
+ {
+  "from": "k12:2cd81da9-c106-46be-ac1b-8cf29e26a62f",
+  "to": "k12:0d7e646a-344f-45d5-aabd-3a2858369153",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "群落的概念与物种组成"
+ },
+ {
+  "from": "k12:2cf76f40-288d-4356-adb2-ce6bfcd35a0a",
+  "to": "k12:3fa6b442-6c2c-4551-bfd4-4374a6fa1de7",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "灾害说明文阅读理解"
+ },
+ {
+  "from": "k12:2e15d8f6-89a6-4a3f-b092-80d18274379c",
+  "to": "k12:7ef42273-afc9-48b1-a78e-16b2877992cc",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "分子的基本性质"
+ },
+ {
+  "from": "k12:2e2ddc7d-b621-4a83-902d-b82c6ece6309",
+  "to": "k12:02e9b789-fcbf-41ef-b3cb-195a255c89bc",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "科学假说叙述中推理链条还原（现象→证据→结论→存疑）"
+ },
+ {
+  "from": "k12:2e2ddc7d-b621-4a83-902d-b82c6ece6309",
+  "to": "k12:3a0417b5-cef8-43fc-ba3e-6abf3d423567",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "科学假说叙述中推理链条还原（现象→证据→结论→存疑）"
+ },
+ {
+  "from": "k12:2eeac046-561e-4fe5-b3ec-41edb5fc4c87",
+  "to": "k12:6579e45d-22f3-4c5f-809a-860dcf6aab7c",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "平衡态与热平衡"
+ },
+ {
+  "from": "k12:2eeac046-561e-4fe5-b3ec-41edb5fc4c87",
+  "to": "k12:69e31f8b-b352-4cc3-bcad-951ae354e2b2",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "平衡态与热平衡"
+ },
+ {
+  "from": "k12:304e004c-320c-4b00-931b-077c394e886a",
+  "to": "k12:54aac8be-2176-4d02-9257-bf5bee16200b",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "引号在直接引语中的规范使用"
+ },
+ {
+  "from": "k12:30dbcca2-03bc-4b61-ae48-69b7a135c274",
+  "to": "k12:2a57bc33-3f1f-4184-978c-68757f932e9e",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "that引导的宾语从句"
+ },
+ {
+  "from": "k12:30dbcca2-03bc-4b61-ae48-69b7a135c274",
+  "to": "k12:cb6e9cb7-9715-4f3b-9193-1e922be53bd0",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "that引导的宾语从句"
+ },
+ {
+  "from": "k12:31122aa8-e8ed-4650-88c4-bea595bcdeab",
+  "to": "k12:9518804f-00fc-45af-9363-325a61deb8f5",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物细胞全能性"
+ },
+ {
+  "from": "k12:3114cd41-e0e3-46d7-a6b2-2c475a7614fe",
+  "to": "k12:7dd3d099-9aaf-428e-99ab-f993939823c4",
+  "via": "phase2",
+  "sim": 0.35,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时被动语态描述动植物功能用途"
+ },
+ {
+  "from": "k12:31156b99-29ac-4cfc-84f4-198cc8d89de4",
+  "to": "k12:e85f210c-bb91-4a82-9683-28d25e5b4cda",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "分子间引力与斥力"
+ },
+ {
+  "from": "k12:3134d66b-c5d7-4795-82b9-ce3cae2c4493",
+  "to": "k12:4371de2b-43f9-4084-b1e5-fb3aa833d547",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "波长、频率与波速的关系"
+ },
+ {
+  "from": "k12:313bd16c-c261-4960-8858-9d66d68daf04",
+  "to": "k12:22821fc2-0beb-45d9-89c1-3997bc3c8f67",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "沉淀溶解平衡中的同离子效应与Ksp守恒"
+ },
+ {
+  "from": "k12:315fcba6-17a4-469c-8aa0-071c0d19630f",
+  "to": "k12:054674d5-bfaa-4862-ad8a-8dd5054cf186",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "种群密度的概念与意义"
+ },
+ {
+  "from": "k12:315fcba6-17a4-469c-8aa0-071c0d19630f",
+  "to": "k12:21614026-15f4-4102-b94b-2b68ce84051d",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "种群密度的概念与意义"
+ },
+ {
+  "from": "k12:3165147c-cc74-4c84-8841-06a8f67422a6",
+  "to": "k12:626fc2df-2fdf-4ccf-90f9-6b5f21af57b2",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "匀变速直线运动的速度—位移关系式 v² − v₀² = 2ax"
+ },
+ {
+  "from": "k12:3237a816-9a9e-44b5-80c5-d58ef3a93d3f",
+  "to": "k12:1eb5ec13-eb61-4155-a3b2-58788ef469c7",
+  "via": "phase2",
+  "sim": 0.63,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "情态动词建议句式（should/shouldn't）"
+ },
+ {
+  "from": "k12:32b7437b-f11a-4b54-9c1c-ec26702240fa",
+  "to": "k12:14d4cf69-3236-4e1a-b81a-df9dd3fe114f",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般过去时肯定句、否定句与一般疑问句构成规则"
+ },
+ {
+  "from": "k12:35333a3f-1cf3-44e3-93d2-e86c1eef6c7f",
+  "to": "k12:62a6adfe-100b-4fe5-8e84-7add132ff519",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "种子萌发的内部条件"
+ },
+ {
+  "from": "k12:3575be75-9d78-4a45-b845-d23cdb7c47a5",
+  "to": "k12:4dc3d204-799d-4118-8f9c-642396d0bfc8",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "常用偏旁名称认读"
+ },
+ {
+  "from": "k12:35e40060-7f9c-4aec-b38f-cbb13273e56b",
+  "to": "k12:c68366a7-41e9-484b-a545-4e42ea94bd25",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "负反馈调节机制"
+ },
+ {
+  "from": "k12:35ef7187-a18d-4587-9cb2-69847a1967df",
+  "to": "k12:0d7e646a-344f-45d5-aabd-3a2858369153",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "人类活动对群落演替方向与速度的影响"
+ },
+ {
+  "from": "k12:35ef7187-a18d-4587-9cb2-69847a1967df",
+  "to": "k12:b22be8df-fc4e-493d-8da1-a9c2f38ef2c7",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "人类活动对群落演替方向与速度的影响"
+ },
+ {
+  "from": "k12:3613af7e-0f61-4197-a75e-b10b3ab94de5",
+  "to": "k12:ab60d0f5-d79b-4ab8-b43c-b94dcea952fa",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "出生率与死亡率的概念及生态意义"
+ },
+ {
+  "from": "k12:3699b51e-a57d-4924-b36d-3f33ce21af3a",
+  "to": "k12:b55b546d-53fa-4b90-b2de-efeb1aea7b88",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "平均速度与瞬时速度的区分与联系"
+ },
+ {
+  "from": "k12:369a0338-57c9-4ca9-891a-0a03f80a3a84",
+  "to": "k12:2521b6bf-5458-4ac0-ab23-026ae61aaed4",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "匀强电场中电势差与电场强度的关系式 U = Ed"
+ },
+ {
+  "from": "k12:369a0338-57c9-4ca9-891a-0a03f80a3a84",
+  "to": "k12:264f0aab-6276-473c-b122-6bfc3c8dad6d",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "匀强电场中电势差与电场强度的关系式 U = Ed"
+ },
+ {
+  "from": "k12:36fd1687-157a-4dce-a067-5b14deb223d9",
+  "to": "k12:77e68a16-9fab-4a34-b8a9-9ec96d9b1bd9",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "RNA的结构与类型"
+ },
+ {
+  "from": "k12:37151feb-2b0b-4802-9149-d3d1c58f8158",
+  "to": "k12:f1f21326-3847-4ffc-b5e3-c71f9e4434e8",
+  "via": "phase2",
+  "sim": 0.19,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《子衿》情感主旨概括：女子因失约而生的深切思念与缠绵悱恻之情"
+ },
+ {
+  "from": "k12:386a8cdf-3d8d-428a-88e7-2b6d3b2e660f",
+  "to": "k12:ec9285fe-5be7-4f98-87b6-64a8a3d7fd0c",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《望海潮》（东南形胜）的意象系统与空间结构分析"
+ },
+ {
+  "from": "k12:387f6f65-82a3-4c6f-bca0-67c77a983719",
+  "to": "k12:2a40d6ff-d185-4a43-b16e-443a05c29a00",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be 动词现在时（am/is/are）"
+ },
+ {
+  "from": "k12:387f6f65-82a3-4c6f-bca0-67c77a983719",
+  "to": "k12:ce352282-2f13-4f3d-8ffc-7ad3f7ce3017",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be 动词现在时（am/is/are）"
+ },
+ {
+  "from": "k12:39254260-d627-4bc3-9153-dfdeeac501b8",
+  "to": "k12:7a84d80e-01bb-4adb-854f-4d8ba801aaa1",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "看图写故事（时间顺序表达）"
+ },
+ {
+  "from": "k12:3a35eef8-e207-435c-ac82-9521d4451448",
+  "to": "k12:2908d816-d734-49b7-824f-40bdc65d05f7",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "整体认读音节 yi wu yu 的认读与拼写规则"
+ },
+ {
+  "from": "k12:3c5fe548-6412-422a-9ae1-b452be5b1b82",
+  "to": "k12:c30bb5d9-bad6-4eae-8ab4-9da13e59768d",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电场强度的叠加原理"
+ },
+ {
+  "from": "k12:3cd8ece9-f217-404b-bea7-ac631b0f57a9",
+  "to": "k12:5dffa0ac-8cc9-47b8-8cba-1e65ea039ebd",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "杨二嫂今昔对比的人物形象综合分析"
+ },
+ {
+  "from": "k12:3cd8ece9-f217-404b-bea7-ac631b0f57a9",
+  "to": "k12:9b18ce47-e972-4841-8838-4a9e695f0910",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "杨二嫂今昔对比的人物形象综合分析"
+ },
+ {
+  "from": "k12:3d59b8f1-2340-4d46-aed9-0f10fa9a8835",
+  "to": "k12:c4ff5e78-646c-4460-b1b9-a6a3d623f872",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "简谐运动的相位与初相位"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:225caa5a-af83-4db2-a7cd-2207c8920dec",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:32d74e0e-e91b-47cf-901f-8aed1b08afa4",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:5559b612-50e1-4b8e-8732-b97df4fb743b",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:559909e9-788d-43a2-94e2-279854da8d3f",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:835013dc-907f-4d3c-8788-245c3f0716e1",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:90cff574-17bd-433b-a9b0-76f93da58b0d",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3eb73ce1-3aa3-447e-923b-c1d3aaa897d5",
+  "to": "k12:9b269feb-2474-4218-a031-6d47c4528933",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "牛顿第三定律的定量表述与矢量形式"
+ },
+ {
+  "from": "k12:3f09ed20-9d97-4392-8f13-7907e43d9c2f",
+  "to": "k12:450532d4-9906-4eb8-b141-392dbbe8b025",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "be 动词 is/are 与名词单复数的数一致"
+ },
+ {
+  "from": "k12:3f09ed20-9d97-4392-8f13-7907e43d9c2f",
+  "to": "k12:75755821-4baa-461b-aaf3-d50355563629",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "be 动词 is/are 与名词单复数的数一致"
+ },
+ {
+  "from": "k12:3f62b307-8686-4ef0-8d84-0a513b1d189d",
+  "to": "k12:093de5ff-1171-432c-95ea-4c363e3b4562",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "共价键"
+ },
+ {
+  "from": "k12:3f62b307-8686-4ef0-8d84-0a513b1d189d",
+  "to": "k12:62452bfa-43aa-4d2b-aa36-2a8e4e598933",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "共价键"
+ },
+ {
+  "from": "k12:3f78cf4a-c064-4945-86c0-3532a85eebfa",
+  "to": "k12:ac725159-11f8-4bde-9d7b-45fadf3130a4",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "通讯文体特征与功能"
+ },
+ {
+  "from": "k12:3f84d468-1242-4d50-9380-6618586186d8",
+  "to": "k12:034d4e40-1ffd-4d57-836d-5e6bf0df7a95",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言实词与虚词的语境释义"
+ },
+ {
+  "from": "k12:3f84d468-1242-4d50-9380-6618586186d8",
+  "to": "k12:11e32a40-d45d-46b0-a60e-036b1ab75042",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言实词与虚词的语境释义"
+ },
+ {
+  "from": "k12:3f84d468-1242-4d50-9380-6618586186d8",
+  "to": "k12:dbc95e7f-baa7-4526-9b91-517286b5f90e",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言实词与虚词的语境释义"
+ },
+ {
+  "from": "k12:3f913106-0c1e-46c9-a1b2-948727b981a4",
+  "to": "k12:91d1c2ba-1640-4cda-a3f8-13e4e32b7cf3",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "相对原子质量的概念与计算"
+ },
+ {
+  "from": "k12:3f913106-0c1e-46c9-a1b2-948727b981a4",
+  "to": "k12:e298ef19-fabc-4d89-b395-db6531e5a09b",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "相对原子质量的概念与计算"
+ },
+ {
+  "from": "k12:40173428-65d3-43ca-a361-dec415b7deca",
+  "to": "k12:300ee1bb-49c6-4176-8f7d-ce1de2c60721",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "力的概念与定义"
+ },
+ {
+  "from": "k12:4055f1c9-ce54-4747-a1b7-8a13e73c81b7",
+  "to": "k12:04f6113d-a138-4733-aa74-b2c62f622fa8",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 ɑ o e 的认读与发音"
+ },
+ {
+  "from": "k12:4055f1c9-ce54-4747-a1b7-8a13e73c81b7",
+  "to": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单韵母 ɑ o e 的认读与发音"
+ },
+ {
+  "from": "k12:4055f1c9-ce54-4747-a1b7-8a13e73c81b7",
+  "to": "k12:97684b6a-5e8b-4f0d-9535-6fb599d5a543",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 ɑ o e 的认读与发音"
+ },
+ {
+  "from": "k12:4055f1c9-ce54-4747-a1b7-8a13e73c81b7",
+  "to": "k12:c4c8ef5b-2aee-4d2e-be35-9127be6ffab6",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 ɑ o e 的认读与发音"
+ },
+ {
+  "from": "k12:406ab36f-2468-47d8-8841-9122b1cd2208",
+  "to": "k12:05ac63cb-8c9b-46c8-8a3b-063940362740",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "人物描写方法辨识与情感体察（动作/语言/神态）"
+ },
+ {
+  "from": "k12:406ab36f-2468-47d8-8841-9122b1cd2208",
+  "to": "k12:068cb645-2d8c-4dc5-99a1-2c7d71de2c1f",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "人物描写方法辨识与情感体察（动作/语言/神态）"
+ },
+ {
+  "from": "k12:406ab36f-2468-47d8-8841-9122b1cd2208",
+  "to": "k12:624e9e0d-4bc4-4f6c-ad51-4e13cdde8e24",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "人物描写方法辨识与情感体察（动作/语言/神态）"
+ },
+ {
+  "from": "k12:406ab36f-2468-47d8-8841-9122b1cd2208",
+  "to": "k12:7bae7c3a-834e-4d68-9460-5d6dd070676a",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "人物描写方法辨识与情感体察（动作/语言/神态）"
+ },
+ {
+  "from": "k12:406ab36f-2468-47d8-8841-9122b1cd2208",
+  "to": "k12:f2bc9bef-754b-45b4-af14-35b9b7df5f2a",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "人物描写方法辨识与情感体察（动作/语言/神态）"
+ },
+ {
+  "from": "k12:40c6dcb2-da6c-4086-b22d-6062c8cbb99f",
+  "to": "k12:136a1754-c05e-4f88-ac37-d014e671c0e1",
+  "via": "phase2",
+  "sim": 0.39,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生态系统的物质循环定义与生物地球化学循环"
+ },
+ {
+  "from": "k12:42b79e28-1cd7-4023-9a67-998045da860c",
+  "to": "k12:3a33b241-3c17-477d-b632-f321ddbeb6eb",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《大学》三纲领"
+ },
+ {
+  "from": "k12:42eeec6d-a965-4b5d-ab7b-e3f31b4398e4",
+  "to": "k12:4708d434-92c0-43b3-962b-aa30662b7bf8",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "硅氧四面体结构"
+ },
+ {
+  "from": "k12:430ab338-462a-4a5b-922f-2b584807bdc9",
+  "to": "k12:01a21890-4b2f-4523-9cda-a5d88ea33816",
+  "via": "phase2",
+  "sim": 0.22,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "《观沧海》借壮阔沧海抒发一统天下雄心壮志的情感主题概括"
+ },
+ {
+  "from": "k12:430ab338-462a-4a5b-922f-2b584807bdc9",
+  "to": "k12:eef636d1-24e5-4cd3-8b7b-1f51de73e152",
+  "via": "phase2",
+  "sim": 0.22,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "《观沧海》借壮阔沧海抒发一统天下雄心壮志的情感主题概括"
+ },
+ {
+  "from": "k12:4320aa89-04c1-4163-a37f-3bb4251313e3",
+  "to": "k12:99990464-fdbb-4415-b7bf-777118a85868",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《太空一日》非虚构叙事事件梳理与关键细节品读"
+ },
+ {
+  "from": "k12:43428cee-3067-4e59-b34e-db19bd1ebdf1",
+  "to": "k12:a7de2d30-79c5-412b-b281-b00b7ac3746c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画名称认读（横、竖、撇、点、捺、提）"
+ },
+ {
+  "from": "k12:4391aa22-cab3-453c-8451-30ecbb05c0be",
+  "to": "k12:f2e9dc3d-03a0-4e03-b426-9713c1dec246",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "化学平衡常数（K）的概念与意义"
+ },
+ {
+  "from": "k12:43d3f906-93bf-4c97-89a7-a32039e88d4e",
+  "to": "k12:0219f25e-c2cf-4cc8-915d-a0f155c4555a",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "汽车过拱形桥最高点的动力学分析"
+ },
+ {
+  "from": "k12:444bc2d2-4853-4cc9-a807-a3400c78aa3c",
+  "to": "k12:e38df6ee-853b-48c5-beaf-23c80b0c9d5c",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "性染色体与常染色体的区分"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:154c82ef-34c5-421f-a5af-32f18f543a5d",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:1d559fd2-b3aa-4c32-a564-404246a3ce14",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:1e3a0d33-39f5-4e44-831f-65c6f3279e54",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:29736035-44d9-4b95-83da-f43e63234702",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:2d3790ab-7082-4c53-992a-8c96afa44584",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:6d440ff1-1697-43dc-83a5-d3768f4020c9",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:78946a43-b111-40e7-9de6-5f90cf1c4a03",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:88efe9a7-bb57-4e78-bb3f-73d6adf5b695",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:9445b95f-78d3-4bf6-b2e7-736f37cc3f96",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:a2804e92-b776-44e6-aeef-d1651a4a4254",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:a4b5167c-4829-452c-84fc-8c8a4cd11369",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:b0943dbc-9269-4e95-8d29-efb4aa22bf09",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:b2cf2526-7130-498f-89ac-dce2f670b37f",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:b3c7ff9c-744c-4fae-a6e4-32ef8cd8c0d0",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:44d8f00a-cc0d-414a-9f78-59c431b431ce",
+  "to": "k12:ea57251a-16e3-4f4a-8d4b-85b34db0170c",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 14,
+  "subject": "语文",
+  "node": "议论文三要素（论点-论据-论证）"
+ },
+ {
+  "from": "k12:456a6144-1f94-4cbd-a21e-cae9ae7dfe3e",
+  "to": "k12:a2b2b235-377f-4422-87d8-1a41dc417dce",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "速度的物理意义与定义"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:34fa80af-335c-4dbd-a580-887fcf27f869",
+  "via": "phase2",
+  "sim": 0.31,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:43cacec8-eff8-4a8d-a557-5cc5c41d2999",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:65382d8c-bc98-49ac-a8c8-51a6ef1ab21c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:704ec1f5-9166-4548-9968-d800452e1852",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:a5f5f649-4fcb-4f3c-9fbb-cb5981f9aa9b",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45d48d48-dd27-4413-a52a-d00d18c42ea6",
+  "to": "k12:f8714d92-6c13-462f-98f9-1eed4b77eb23",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般现在时被动语态构成（肯定/否定/疑问）"
+ },
+ {
+  "from": "k12:45f28727-a5d8-4b50-b179-b036a10eddee",
+  "to": "k12:87242c45-f949-4d4d-8567-bb5f107d93db",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "favorite的用法（最喜爱表达）"
+ },
+ {
+  "from": "k12:469741ee-982c-43b2-9183-0aa219455238",
+  "to": "k12:b5723216-0927-4e6a-8bff-f5b078cd28f5",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "弹性势能概念与影响因素"
+ },
+ {
+  "from": "k12:46dc5b2b-86f9-43ad-8b31-74130c89cc21",
+  "to": "k12:af5e6e5a-e493-40f6-9c94-b3eea50bfe29",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "相对分子质量的计算"
+ },
+ {
+  "from": "k12:46dc5b2b-86f9-43ad-8b31-74130c89cc21",
+  "to": "k12:ed03fd09-6fd7-4e69-95e1-1fbb27dfb447",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "相对分子质量的计算"
+ },
+ {
+  "from": "k12:46dc5b2b-86f9-43ad-8b31-74130c89cc21",
+  "to": "k12:f79a8cfc-d5bc-425c-b284-ca227978f2e4",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "相对分子质量的计算"
+ },
+ {
+  "from": "k12:4801005f-116b-4572-94b9-e8957d7cb544",
+  "to": "k12:fe41c113-b4bf-4f01-bee8-5669125763a0",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "乙醇的分子结构与羟基官能团"
+ },
+ {
+  "from": "k12:483f33a0-868f-451a-8538-eb91fa75d071",
+  "to": "k12:a31239f2-8de1-4377-9583-c2c58c7b0229",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "晶体与非晶体的本质区别"
+ },
+ {
+  "from": "k12:4896e5e8-5d0d-443e-af2a-c0c2ee9fb62a",
+  "to": "k12:7e9cafa8-3fb0-463e-b9ae-2072628bde6f",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般过去时被动语态在说明文中的信息提取功能"
+ },
+ {
+  "from": "k12:49daee05-89fa-4ca1-b1b0-101541483e1e",
+  "to": "k12:d381f064-d590-4c17-b88f-afe5b2d23d0e",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "希尔反应与水的光解"
+ },
+ {
+  "from": "k12:4c90a93f-9484-4bf6-a790-73171e8cd783",
+  "to": "k12:31c34df6-142f-437c-ac2f-168af0ef63d9",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "第一人称叙述视角下心理描写的表达功能"
+ },
+ {
+  "from": "k12:4cfe75a9-43d5-4ebc-83a2-8a9022cecba5",
+  "to": "k12:2a8428ee-8e07-435f-b701-04cc947e4afa",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "匀速直线运动"
+ },
+ {
+  "from": "k12:4e22bbf0-0b51-4f81-b96a-ebcde7b5829b",
+  "to": "k12:0f1c0889-3b9e-4da7-9fde-ec3c1d20937f",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "基因重组的概念与发生机制"
+ },
+ {
+  "from": "k12:4e22bbf0-0b51-4f81-b96a-ebcde7b5829b",
+  "to": "k12:102485d1-ff98-4cce-962c-d88c37484d3f",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "基因重组的概念与发生机制"
+ },
+ {
+  "from": "k12:4e5c7a05-e45a-4eff-8834-b9e120b963ca",
+  "to": "k12:2290db1b-06e7-40d1-84ae-0b77ddba01fc",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般过去时特殊疑问句（What/How/Where did...?）"
+ },
+ {
+  "from": "k12:4e8797cd-60f1-42e4-894e-6b39a288c172",
+  "to": "k12:ef8c3095-36ba-421f-aa94-958ff6d7c469",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "速度的定义与矢量性"
+ },
+ {
+  "from": "k12:4f298ccc-2f33-4eb9-8cb9-04835b4f7cd0",
+  "to": "k12:cd0f9df4-0d9f-4e4e-8308-f987097e0efa",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "平均速度与瞬时速度的概念辨析"
+ },
+ {
+  "from": "k12:4f298ccc-2f33-4eb9-8cb9-04835b4f7cd0",
+  "to": "k12:f1e666a6-d803-44b9-85c5-3f83ffdcf016",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "平均速度与瞬时速度的概念辨析"
+ },
+ {
+  "from": "k12:5031d1e7-efe9-48c5-b2da-b6660cab0e4c",
+  "to": "k12:20ac142a-c667-42cc-8dcd-ec53c8dcfd8f",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 4,
+  "subject": "物理",
+  "node": "二力平衡的四个条件"
+ },
+ {
+  "from": "k12:5031d1e7-efe9-48c5-b2da-b6660cab0e4c",
+  "to": "k12:3c4bbf0c-1c3f-4da8-9706-01a69f128050",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 4,
+  "subject": "物理",
+  "node": "二力平衡的四个条件"
+ },
+ {
+  "from": "k12:5031d1e7-efe9-48c5-b2da-b6660cab0e4c",
+  "to": "k12:961663e4-e17e-4cf0-afcf-f5bb98693194",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 4,
+  "subject": "物理",
+  "node": "二力平衡的四个条件"
+ },
+ {
+  "from": "k12:5031d1e7-efe9-48c5-b2da-b6660cab0e4c",
+  "to": "k12:ca8d01b1-e800-498d-8d24-535c7e3deaae",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 4,
+  "subject": "物理",
+  "node": "二力平衡的四个条件"
+ },
+ {
+  "from": "k12:5071cb9d-e6b0-40e5-897d-576fef3bea23",
+  "to": "k12:b45bef54-a4e4-46e1-9a95-461a4d0de412",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "关联词与逻辑连接词使用"
+ },
+ {
+  "from": "k12:508ead37-98ea-4ff6-acac-4e6a258b0068",
+  "to": "k12:ca1058b6-75fe-4369-a848-af0617590787",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "咏雪中'撒盐空中'与'柳絮因风起'的比喻修辞鉴赏"
+ },
+ {
+  "from": "k12:50bd236f-0d24-49c1-95f8-167818c86e29",
+  "to": "k12:3f35bc75-b16e-4786-87fc-c063a44483db",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "for 与 since 的辨析"
+ },
+ {
+  "from": "k12:50fe8204-4d0d-4cb6-af24-df3c70a08bcd",
+  "to": "k12:71375e73-2155-4934-aa83-b63254b795fd",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "点餐中食物尺寸表达（large/medium/small）"
+ },
+ {
+  "from": "k12:50fe8204-4d0d-4cb6-af24-df3c70a08bcd",
+  "to": "k12:c03c742e-d005-44c6-91a0-6436a5ba613c",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 3,
+  "subject": "英语",
+  "node": "点餐中食物尺寸表达（large/medium/small）"
+ },
+ {
+  "from": "k12:511257f0-833d-4fa1-b804-8c8ba1af2bea",
+  "to": "k12:3335f1bf-50da-4e17-87c0-8be7cef4e756",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "关键词语在语境中的意义推断"
+ },
+ {
+  "from": "k12:51dacfd8-5332-491c-980f-5f7dee29ea38",
+  "to": "k12:cd82715f-5049-4ad6-855b-162ee837c0aa",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "温度与分子热运动剧烈程度的关系"
+ },
+ {
+  "from": "k12:5250a6a8-94d6-42cc-ac2b-158300d6432c",
+  "to": "k12:1e3a2451-822c-4fab-b439-8b921a08b96f",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "提高生态系统稳定性的实践路径"
+ },
+ {
+  "from": "k12:52530b5c-4f29-42e9-b3b3-bc571d7ab765",
+  "to": "k12:9881e46c-f55b-4f1a-a6bb-9b4feffc246a",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "反射弧的结构与功能"
+ },
+ {
+  "from": "k12:5361df8d-bf80-4528-b6a2-5bc913e5ada0",
+  "to": "k12:aa1a84fb-5864-431f-87a5-ff7dd1bd5d9d",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "金属活动性顺序"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:061eace1-061f-4f70-b4c3-5c3454500deb",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:65b8df8b-10dc-49ff-b6f4-e6b2d75cbab4",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:6605517c-ddfe-4a80-8151-6d1e55610771",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:6b45d9e7-8b9c-4196-b6fc-07e4fb7eeec9",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:8fbb552d-93d4-459e-9b2d-aeac38f609dc",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:53fab7f5-9163-4ade-a743-d3a96b129418",
+  "to": "k12:c4c8ef5b-2aee-4d2e-be35-9127be6ffab6",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读与发音"
+ },
+ {
+  "from": "k12:54731913-bee2-4f1f-b4e9-7456b0c4a362",
+  "to": "k12:d8035d4e-ce9a-4475-a66a-61460a776620",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "液体的表面张力"
+ },
+ {
+  "from": "k12:54838f6e-cdc7-4d0e-a759-b510d10039dd",
+  "to": "k12:b089919b-8ede-4e82-86f6-82750fa3c62c",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "并列连词 and, but, because 的语义功能辨析"
+ },
+ {
+  "from": "k12:559dd09d-33ae-43f9-aab8-b15af559f225",
+  "to": "k12:28ef915f-8518-4f13-a6a8-a31f4f4ce3bc",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "if/whether引导的宾语从句"
+ },
+ {
+  "from": "k12:55f1068b-df75-49fd-b179-c3f0da2e8c5d",
+  "to": "k12:3d96a9ff-255b-4e50-928b-17e1c181474a",
+  "via": "phase2",
+  "sim": 0.2,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "文言文中心思想提炼：'静以修身、俭以养德'的修身观及其逻辑展开"
+ },
+ {
+  "from": "k12:560abda7-27bf-42dd-9cc4-2ecc1b7436d5",
+  "to": "k12:1a883320-ec30-480d-97ae-28c71d784272",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物激素的概念与特征"
+ },
+ {
+  "from": "k12:560abda7-27bf-42dd-9cc4-2ecc1b7436d5",
+  "to": "k12:a520f970-caad-46de-b389-0ff748c8a0ed",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物激素的概念与特征"
+ },
+ {
+  "from": "k12:56c5fde6-efdc-4df1-8e11-4c6615c912de",
+  "to": "k12:9cf41c0e-cec0-40a4-ba2e-d27283cd4127",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "形容词比较级构成规则（规则变化与不规则变化）"
+ },
+ {
+  "from": "k12:577ae758-deae-4fb4-9a92-2a924328a184",
+  "to": "k12:6fd3ae75-16f1-4678-94cc-cbdc98648eee",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "If…, …will… 简单条件状语从句"
+ },
+ {
+  "from": "k12:577ae758-deae-4fb4-9a92-2a924328a184",
+  "to": "k12:cc94a5e3-5482-4535-9aec-e2041325ab04",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "If…, …will… 简单条件状语从句"
+ },
+ {
+  "from": "k12:57bcd47c-a6fd-4b35-84b6-e3ee0e2f1f83",
+  "to": "k12:1f8a7685-b670-4849-bfb6-06cb75694257",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "还原糖的斐林试剂检测法"
+ },
+ {
+  "from": "k12:57bcd47c-a6fd-4b35-84b6-e3ee0e2f1f83",
+  "to": "k12:ce68fc4a-1e01-4b19-8637-49a622499344",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "还原糖的斐林试剂检测法"
+ },
+ {
+  "from": "k12:58c3a633-ada4-4c9c-ad2c-9e0095d828c5",
+  "to": "k12:1593f95b-4007-486d-8dba-c04c981c01c1",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "立论文中事实论据的辨识与作用分析"
+ },
+ {
+  "from": "k12:599d8d0a-00fb-43d5-9a9b-81aeb1e829ca",
+  "to": "k12:a25dd861-b472-49cd-8370-83d2dae4f03e",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "浓硫酸的强氧化性（与Cu、C反应）"
+ },
+ {
+  "from": "k12:59f2bf29-f627-4cce-9095-9888731069a6",
+  "to": "k12:599d8d0a-00fb-43d5-9a9b-81aeb1e829ca",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "二氧化硫的物理与化学性质"
+ },
+ {
+  "from": "k12:59f2bf29-f627-4cce-9095-9888731069a6",
+  "to": "k12:5c1dfb77-48e1-476c-849d-9387dc0941b9",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "二氧化硫的物理与化学性质"
+ },
+ {
+  "from": "k12:5a8cf3e4-f84a-469e-906e-955a6e001927",
+  "to": "k12:f6019fbd-a459-4ff2-8c39-edac1edac4aa",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "自由落体加速度（重力加速度）g"
+ },
+ {
+  "from": "k12:5b2719e6-5bfa-4c3f-a027-4ce172dbebc6",
+  "to": "k12:19242b3e-fbf6-4fbd-80ed-69f95f79d874",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "离子方程式的书写步骤与规范"
+ },
+ {
+  "from": "k12:5b2719e6-5bfa-4c3f-a027-4ce172dbebc6",
+  "to": "k12:4da2c66e-05c6-484a-8864-d5e0ff845167",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "离子方程式的书写步骤与规范"
+ },
+ {
+  "from": "k12:5bd09564-74b8-4ffa-8446-729272cdfdf7",
+  "to": "k12:4c60862b-330b-4b4f-bf40-66c91a9c1458",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "安培定则（右手螺旋定则）应用"
+ },
+ {
+  "from": "k12:5bd09564-74b8-4ffa-8446-729272cdfdf7",
+  "to": "k12:4e69ff06-df7e-4cdf-888f-09dc89f2f9ce",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "安培定则（右手螺旋定则）应用"
+ },
+ {
+  "from": "k12:5bdc65d7-58b2-4a29-b285-f71c79efc575",
+  "to": "k12:9177c8d9-c595-4064-9039-084127a4b0f3",
+  "via": "phase2",
+  "sim": 0.81,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "which/that 引导的限制性定语从句"
+ },
+ {
+  "from": "k12:5c0a3a52-90d8-4938-a3a5-f5354b3640e7",
+  "to": "k12:2290db1b-06e7-40d1-84ae-0b77ddba01fc",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "There is/are 一般疑问句与简短回答"
+ },
+ {
+  "from": "k12:5d1134a8-915e-4606-8964-2e7448658c6f",
+  "to": "k12:b94c3c42-50e5-4bd1-a87d-30e1d1f6ac30",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "动物在食物链和食物网中的消费者地位"
+ },
+ {
+  "from": "k12:5d773d6b-3cbc-4cc0-93f0-18b287138154",
+  "to": "k12:6dcdd884-4101-4467-bf0a-19ef9e03c219",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "基态原子核外电子排布规律"
+ },
+ {
+  "from": "k12:5d773d6b-3cbc-4cc0-93f0-18b287138154",
+  "to": "k12:c5b4fa96-9bde-4c26-be10-bdda420d6fbc",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "基态原子核外电子排布规律"
+ },
+ {
+  "from": "k12:5dd3a5f4-254a-4198-b9ec-31dbc92bcddc",
+  "to": "k12:823a91ce-a4bf-4398-af06-f81119d83d0e",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "短视频解说词的准确性与表现力设计"
+ },
+ {
+  "from": "k12:5ed0e88a-0f1b-42c1-ba4c-0e8d76f2cbb2",
+  "to": "k12:64f7c259-5644-4700-a500-78388e28f334",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "碳的还原性"
+ },
+ {
+  "from": "k12:5ed0e88a-0f1b-42c1-ba4c-0e8d76f2cbb2",
+  "to": "k12:bb59b9fa-65bc-44be-904e-92580702a48a",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "碳的还原性"
+ },
+ {
+  "from": "k12:5fd291de-6cc7-4ba3-a929-ba771f286f5e",
+  "to": "k12:131ba83e-616e-46df-a4e8-92ffa69558b7",
+  "via": "phase2",
+  "sim": 0.8,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "演讲稿受众意识与针对性表达策略"
+ },
+ {
+  "from": "k12:5ff7f9a0-04da-4e09-ad7e-93a60b0da43e",
+  "to": "k12:3cd8ece9-f217-404b-bea7-ac631b0f57a9",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "关键动词与细节描写的表达效果体会"
+ },
+ {
+  "from": "k12:5ff7f9a0-04da-4e09-ad7e-93a60b0da43e",
+  "to": "k12:5dffa0ac-8cc9-47b8-8cba-1e65ea039ebd",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "关键动词与细节描写的表达效果体会"
+ },
+ {
+  "from": "k12:60055d02-3691-4dae-9123-4ea2eecaaa5f",
+  "to": "k12:4d1566fc-47e0-47be-8b3c-ed8e23de987d",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "WH疑问词引导的间接疑问句语序规则"
+ },
+ {
+  "from": "k12:60055d02-3691-4dae-9123-4ea2eecaaa5f",
+  "to": "k12:92cb44fd-3921-430b-a9d1-4e9b3b4db8f9",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "WH疑问词引导的间接疑问句语序规则"
+ },
+ {
+  "from": "k12:62249e9f-d3a9-4372-92d4-49cf0e7e7cce",
+  "to": "k12:11b5cc88-080b-4e8d-a0c8-e00a9fc68683",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "寓言文体特征辨别"
+ },
+ {
+  "from": "k12:62249e9f-d3a9-4372-92d4-49cf0e7e7cce",
+  "to": "k12:a7d57125-3b6d-4463-8610-9ca5b65da94c",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "寓言文体特征辨别"
+ },
+ {
+  "from": "k12:62249e9f-d3a9-4372-92d4-49cf0e7e7cce",
+  "to": "k12:a8718192-d976-43f2-a4fb-a5d54806e1cb",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "寓言文体特征辨别"
+ },
+ {
+  "from": "k12:62249e9f-d3a9-4372-92d4-49cf0e7e7cce",
+  "to": "k12:c6ae64f0-052a-49c0-9ef2-aa759ca37b6e",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "寓言文体特征辨别"
+ },
+ {
+  "from": "k12:62249e9f-d3a9-4372-92d4-49cf0e7e7cce",
+  "to": "k12:c9e62e19-0c56-4338-b2b9-2c612be100a5",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 5,
+  "subject": "语文",
+  "node": "寓言文体特征辨别"
+ },
+ {
+  "from": "k12:624a07df-79af-4b1c-841b-a7db616bb3c4",
+  "to": "k12:d8e4f5c4-c9dc-4bf5-b237-669f7b51af08",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "do/does 一般疑问句构成"
+ },
+ {
+  "from": "k12:63d8386e-e47e-472f-9a81-f52592eaf1d6",
+  "to": "k12:e16f9169-19c4-4fc1-8461-be491805fede",
+  "via": "phase2",
+  "sim": 0.83,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电磁场的统一性与电磁波的预言"
+ },
+ {
+  "from": "k12:6463208a-1bcd-48f4-a06d-d43c1c69760b",
+  "to": "k12:dfad8038-9800-4592-a67e-6fd5f3474237",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "理解关键语句在表情达意中的作用"
+ },
+ {
+  "from": "k12:6486212e-4f8f-4238-85d5-bb7c4ed29ac8",
+  "to": "k12:682c8c9b-e29d-4184-8686-47cd8603c151",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "光线模型与光的直线传播条件"
+ },
+ {
+  "from": "k12:64f7c259-5644-4700-a500-78388e28f334",
+  "to": "k12:7436f7b4-f11d-44bb-b417-6276e824946f",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "浓硫酸脱水性与强氧化性的综合实验分析"
+ },
+ {
+  "from": "k12:64f7c259-5644-4700-a500-78388e28f334",
+  "to": "k12:aea745d1-c9cb-4481-86ec-f14caf41ebcc",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "浓硫酸脱水性与强氧化性的综合实验分析"
+ },
+ {
+  "from": "k12:666fa411-0da8-4b42-b739-d3e40ea3279a",
+  "to": "k12:c7dbb823-8097-4f17-ac66-42af4bde99aa",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "突触的结构与兴奋单向传递原理"
+ },
+ {
+  "from": "k12:66d989dc-6f34-4a13-9aa8-44fb530d5000",
+  "to": "k12:ee7a09aa-af5b-4b56-80c6-3c1cb3c53ff6",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时疑问句与短答句（Do/Does...like...?）"
+ },
+ {
+  "from": "k12:67df54ef-36d1-42b7-8400-31146a4f9979",
+  "to": "k12:fe71f321-3d33-49cb-b984-fd76b10d16b1",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化剂与还原剂的系统辨识"
+ },
+ {
+  "from": "k12:68d0b246-e2ba-43aa-b3ec-f15302057ad5",
+  "to": "k12:460e2c3a-42ca-4062-8f8e-3c8cb2c0dfd6",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "元电荷与电荷量子化"
+ },
+ {
+  "from": "k12:691ad127-d870-4663-8648-b4ba261f1690",
+  "to": "k12:a175f34e-a90c-4d9f-83a8-475f9d6047e3",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞分化概念"
+ },
+ {
+  "from": "k12:691ad127-d870-4663-8648-b4ba261f1690",
+  "to": "k12:c09c37fe-5c23-4952-96d0-55290dc0330b",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞分化概念"
+ },
+ {
+  "from": "k12:69e31f8b-b352-4cc3-bcad-951ae354e2b2",
+  "to": "k12:7d280505-8ea5-4d40-9e2e-451efa0876f0",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "单纯传热过程中热量与内能变化的关系"
+ },
+ {
+  "from": "k12:6aab274b-acc1-4e7f-a12a-975ab0fbcb05",
+  "to": "k12:604de40b-fd7c-44c3-9df4-de62593e76d6",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "热化学方程式的书写与解读"
+ },
+ {
+  "from": "k12:6b62e5a0-073a-48ae-9b88-82852ee22c78",
+  "to": "k12:0d38f29d-52cf-4b59-ac49-b9aba1c24051",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "五首唐诗核心意象识别与情感取向关联分析"
+ },
+ {
+  "from": "k12:6b62e5a0-073a-48ae-9b88-82852ee22c78",
+  "to": "k12:6a3d1a55-14c2-4350-a547-0f7ae26290ac",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "五首唐诗核心意象识别与情感取向关联分析"
+ },
+ {
+  "from": "k12:6b62e5a0-073a-48ae-9b88-82852ee22c78",
+  "to": "k12:80be175d-07a6-4d0f-8bfa-7578d0f7bd8d",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "五首唐诗核心意象识别与情感取向关联分析"
+ },
+ {
+  "from": "k12:6b62e5a0-073a-48ae-9b88-82852ee22c78",
+  "to": "k12:b42e62b8-00e1-4ead-be40-47e00f7d5502",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "五首唐诗核心意象识别与情感取向关联分析"
+ },
+ {
+  "from": "k12:6beb5362-78a2-4508-8438-6a143bf40b78",
+  "to": "k12:47126b74-4f6a-4e62-b883-27161bee8338",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "矢量与标量的区分"
+ },
+ {
+  "from": "k12:6beb5362-78a2-4508-8438-6a143bf40b78",
+  "to": "k12:4e8797cd-60f1-42e4-894e-6b39a288c172",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "矢量与标量的区分"
+ },
+ {
+  "from": "k12:6beb5362-78a2-4508-8438-6a143bf40b78",
+  "to": "k12:f1e666a6-d803-44b9-85c5-3f83ffdcf016",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "矢量与标量的区分"
+ },
+ {
+  "from": "k12:6dc7263c-daea-47b0-b07d-3ae9a7faaabf",
+  "to": "k12:619dc484-b174-41ba-8120-710d34113cbe",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "演讲词中论点提取与概括"
+ },
+ {
+  "from": "k12:6e134b87-c26e-472d-9b7a-8c48d78b8792",
+  "to": "k12:55614d08-7ace-40f7-bc85-8165008c6620",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "现在进行时的结构与基本用法"
+ },
+ {
+  "from": "k12:6e134b87-c26e-472d-9b7a-8c48d78b8792",
+  "to": "k12:ecc7e201-b332-45ca-9135-50a71d075a69",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "现在进行时的结构与基本用法"
+ },
+ {
+  "from": "k12:6e134b87-c26e-472d-9b7a-8c48d78b8792",
+  "to": "k12:eec2ddfe-9088-42ea-bf6a-3d6b5383442c",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在进行时的结构与基本用法"
+ },
+ {
+  "from": "k12:6e1b8e9a-1906-41b4-ab7f-584bc93f95bf",
+  "to": "k12:6a93af14-cbfa-489d-9006-1dbfe1496fcf",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "弱电解质电离程度的实验表征与浓度依赖性"
+ },
+ {
+  "from": "k12:6ee527a6-62f5-47f1-9214-1eb6029bcfe9",
+  "to": "k12:2b0dcc30-6a60-4e4f-86e5-29e9ed92a052",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生物多样性保护的法律与政策措施"
+ },
+ {
+  "from": "k12:6f4350a3-7a14-4511-bc9e-a0fe94c103ee",
+  "to": "k12:0943073f-b79c-4c8c-891e-8a0dd0115e0d",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "文言虚词用法：之、以、其、而"
+ },
+ {
+  "from": "k12:6f49bfa4-f10d-4760-ae55-2c34c19e6d0c",
+  "to": "k12:679461f8-e6aa-4281-b2e0-259999ee1d1d",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "多元弱酸的分步电离与逐级电离常数"
+ },
+ {
+  "from": "k12:6f6cae98-ee2a-4bc7-9215-6836abbfd6b9",
+  "to": "k12:2e2ddc7d-b621-4a83-902d-b82c6ece6309",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "岩石记录地球历史的科学推理链条还原"
+ },
+ {
+  "from": "k12:6f6ff5e8-19c7-4334-bff5-ed979abe2650",
+  "to": "k12:6138c5d1-7051-4d0a-828e-515e5dc984b7",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "屈原独白的浪漫主义抒情功能与表达效果"
+ },
+ {
+  "from": "k12:6fe0d394-2e2f-4e22-8c78-6d34227094d5",
+  "to": "k12:bff44504-23d6-48e9-a442-75def224aa9f",
+  "via": "phase2",
+  "sim": 0.8,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "查理定律与盖-吕萨克定律"
+ },
+ {
+  "from": "k12:700f3ec8-f258-4b1d-b262-3e1fbfa638df",
+  "to": "k12:77c0f7f7-300a-4a82-9b99-35f4e6655d8c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "DNA是遗传物质的实验证据"
+ },
+ {
+  "from": "k12:700f3ec8-f258-4b1d-b262-3e1fbfa638df",
+  "to": "k12:f21076bf-dcff-4a3e-b4d6-c7df031b3ba8",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "DNA是遗传物质的实验证据"
+ },
+ {
+  "from": "k12:70191ee0-9aa4-403e-8f82-e1724b6d6f66",
+  "to": "k12:4a485440-83ae-4bb7-8fad-b3625f750ee7",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "方位介词 in/on/under 用法"
+ },
+ {
+  "from": "k12:70191ee0-9aa4-403e-8f82-e1724b6d6f66",
+  "to": "k12:67fc30fc-3591-4056-953b-12001a42e227",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "方位介词 in/on/under 用法"
+ },
+ {
+  "from": "k12:7117ba93-c1fd-4b3b-a8ab-ee9092c2d98b",
+  "to": "k12:72f35674-675d-4a7e-b6aa-f79b5e097057",
+  "via": "phase2",
+  "sim": 0.25,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "民间故事《牛郎织女》（一）的情节梳理与人物关系理解"
+ },
+ {
+  "from": "k12:71f05374-c145-47ac-8a85-adb005aa77f9",
+  "to": "k12:86248828-e18f-47ee-9cf9-07b7ae8e9e41",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "基本笔画与独体字书写：一、二、三、上"
+ },
+ {
+  "from": "k12:72c9c9af-1dbd-480e-b759-ed1fb73b6db8",
+  "to": "k12:b73acabc-e852-4638-b134-8d556d24b8d1",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "多音字在不同语境中的读音辨析"
+ },
+ {
+  "from": "k12:72e3c34d-e1d7-4bbc-adbb-bf34cebe023a",
+  "to": "k12:351d28e3-ae0c-4c4c-b906-42be19618311",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物组织培养原理"
+ },
+ {
+  "from": "k12:72e3c34d-e1d7-4bbc-adbb-bf34cebe023a",
+  "to": "k12:f61de9b8-b0cf-4b97-8421-11e24b69fe61",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物组织培养原理"
+ },
+ {
+  "from": "k12:73a7b3c1-1433-414b-8421-318a6f775b60",
+  "to": "k12:17362308-7c15-4a67-885e-8c4071f7ed05",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学反应与能量变化的因果关系辨析"
+ },
+ {
+  "from": "k12:7459a9dc-220f-47bb-83c7-100f4d160d6a",
+  "to": "k12:6831f9c7-04f7-4eea-8f90-466738f4d3c5",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "群落演替的概念"
+ },
+ {
+  "from": "k12:7495b1f2-3394-4a43-a69b-54b40b18bdbc",
+  "to": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "有丝分裂各时期染色体行为特征"
+ },
+ {
+  "from": "k12:74af1725-bcf2-497b-bed5-2a1f155a12f9",
+  "to": "k12:18b203a9-f4a3-4784-9088-40719b3c43e4",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "生态工程的协调原理"
+ },
+ {
+  "from": "k12:74af1725-bcf2-497b-bed5-2a1f155a12f9",
+  "to": "k12:384e965b-9e24-4adc-aeb1-9218e4db4968",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "生态工程的协调原理"
+ },
+ {
+  "from": "k12:74db630a-aba3-493b-9029-a82fd574b1ce",
+  "to": "k12:4d1566fc-47e0-47be-8b3c-ed8e23de987d",
+  "via": "phase2",
+  "sim": 0.68,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "if/whether引导的间接疑问句语序规则"
+ },
+ {
+  "from": "k12:758e569c-28cd-4280-abc8-631d10320659",
+  "to": "k12:031a32e6-acfd-4905-8a80-5d315de79ad1",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池电极极性与金属活动性关系的综合判定"
+ },
+ {
+  "from": "k12:75d57a00-53fc-4248-b2ea-ea51d90f790d",
+  "to": "k12:29da0b06-cf40-44d0-b125-1c6b5363332f",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "时间、地点、人物、事件四要素提取"
+ },
+ {
+  "from": "k12:75f7b467-cce2-4ef6-b55e-46a0ac7c1ce7",
+  "to": "k12:2258bc4e-5f06-4755-8b87-fd56887b49ab",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "举例论证的识别与效果分析"
+ },
+ {
+  "from": "k12:75f7b467-cce2-4ef6-b55e-46a0ac7c1ce7",
+  "to": "k12:619dc484-b174-41ba-8120-710d34113cbe",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "举例论证的识别与效果分析"
+ },
+ {
+  "from": "k12:75f7b467-cce2-4ef6-b55e-46a0ac7c1ce7",
+  "to": "k12:ae78c5a9-e5c6-4e6a-a90b-b67d5ed4cf12",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "举例论证的识别与效果分析"
+ },
+ {
+  "from": "k12:75f7b467-cce2-4ef6-b55e-46a0ac7c1ce7",
+  "to": "k12:ea57251a-16e3-4f4a-8d4b-85b34db0170c",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "举例论证的识别与效果分析"
+ },
+ {
+  "from": "k12:7603ed2e-c912-42a4-a521-2714022cc7ff",
+  "to": "k12:8210524e-26f9-4f8a-b128-0ccd69a5bfbd",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "自然段的概念认识"
+ },
+ {
+  "from": "k12:76b930b3-924f-4dcd-9174-54a170967865",
+  "to": "k12:011016f3-f531-41ed-a3dd-bc42390e7489",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "辅助性T细胞在特异性免疫中的核心调控作用"
+ },
+ {
+  "from": "k12:76b930b3-924f-4dcd-9174-54a170967865",
+  "to": "k12:f6f49b66-9d2d-4127-99eb-8e28f0ddfdb6",
+  "via": "phase2",
+  "sim": 0.8,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "辅助性T细胞在特异性免疫中的核心调控作用"
+ },
+ {
+  "from": "k12:76c1e380-7186-42f4-9ce3-82d47815d42d",
+  "to": "k12:a175f34e-a90c-4d9f-83a8-475f9d6047e3",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "单细胞生物生命活动分析"
+ },
+ {
+  "from": "k12:779b4e79-7da7-4129-9517-ca7bea8095e9",
+  "to": "k12:9912f19e-e1ac-47b6-8c7a-b5d852e969fc",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "离子反应发生的条件"
+ },
+ {
+  "from": "k12:7836b358-2c3e-43a9-b81c-19f9d56874d1",
+  "to": "k12:45254111-65ee-407c-bf1d-4d751ba7ad09",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "消息倒金字塔结构"
+ },
+ {
+  "from": "k12:7836b358-2c3e-43a9-b81c-19f9d56874d1",
+  "to": "k12:d3cadb22-d53c-4cf0-9b07-70c8486d4d2e",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "消息倒金字塔结构"
+ },
+ {
+  "from": "k12:7836b358-2c3e-43a9-b81c-19f9d56874d1",
+  "to": "k12:f08b4582-5e11-4dd3-9bcc-ab0ccce6369b",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "消息倒金字塔结构"
+ },
+ {
+  "from": "k12:7a62ddc4-8721-43af-b162-b20f3d883b96",
+  "to": "k12:53f53802-076e-4a71-9031-ce528c1c8834",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "神经元的结构与功能"
+ },
+ {
+  "from": "k12:7a62ddc4-8721-43af-b162-b20f3d883b96",
+  "to": "k12:eb342aeb-1d61-42ea-af43-29e14db1940a",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "神经元的结构与功能"
+ },
+ {
+  "from": "k12:7c368dde-52a9-459c-bff3-2fba2f61bc5c",
+  "to": "k12:3202ff00-0f5d-4f11-b80f-d0e884f0c8c2",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "跨文化交际阅读理解（主旨归纳与细节提取）"
+ },
+ {
+  "from": "k12:7c737e86-ebda-48e1-b0ec-8fdd6a8059f3",
+  "to": "k12:47126b74-4f6a-4e62-b883-27161bee8338",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "线速度的概念与物理意义"
+ },
+ {
+  "from": "k12:7cae1a71-1258-4da8-a2b4-b909c9862c7a",
+  "to": "k12:af5994ff-b40c-40de-9dc1-1b9f00db27b7",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "静摩擦力的大小范围与最大静摩擦力"
+ },
+ {
+  "from": "k12:7d3b6845-5731-4991-9dd8-bef5684421ad",
+  "to": "k12:18ec8c7d-3831-406b-a350-ceb29b0d2fd6",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "乙烯的分子结构与物理性质"
+ },
+ {
+  "from": "k12:7d3b6845-5731-4991-9dd8-bef5684421ad",
+  "to": "k12:b41c31a4-f5fd-42a7-a191-b34484dceeda",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "乙烯的分子结构与物理性质"
+ },
+ {
+  "from": "k12:7edb4b32-8b9f-4670-98cb-20509d4275a2",
+  "to": "k12:6afa44ac-dc12-412a-be6a-f207aef75b44",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "下丘脑—垂体—靶腺轴的分级调节机制"
+ },
+ {
+  "from": "k12:7edb4b32-8b9f-4670-98cb-20509d4275a2",
+  "to": "k12:a7452b36-d5ab-4c75-9d6f-75c97c72e457",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "下丘脑—垂体—靶腺轴的分级调节机制"
+ },
+ {
+  "from": "k12:7f45c07b-9c9c-42fd-8add-73f79749c9a9",
+  "to": "k12:4a50bdb4-81f9-4e02-a022-b17e0a96b30d",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "消息中新闻背景信息的作用"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:0694f3a9-721c-400d-a042-5f7c11dc434c",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:3fcdebd6-743a-4665-86f6-18bd0d74f52d",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:5a3a31dc-9c6b-457f-bce9-1ec6ee840c32",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:5f68fbde-aee5-4cd0-94fd-f8aa39fc69ab",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:ce6de1d1-d279-4b02-8d41-778b43313135",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:dcd6d865-8b69-48ec-94b0-b222cf9a7eb4",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:e32b172f-ff53-403a-a164-31b7de79daab",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:f982c3d4-c97f-4e5b-b4ac-55d1d3e5c42f",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f502041-5241-4a98-967e-9d26a2cdd771",
+  "to": "k12:fddb2187-6ced-442c-81fd-1d4915882587",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 9,
+  "subject": "化学",
+  "node": "氧化还原反应三阶段认知模型"
+ },
+ {
+  "from": "k12:7f8d37cd-6ae9-4bb2-96d3-845252d512e0",
+  "to": "k12:abbf6d43-c607-43ac-a902-8c936b1905af",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "酸碱通性与复分解反应知识网络"
+ },
+ {
+  "from": "k12:7f95ee55-687e-4b27-9469-46181dbefbc8",
+  "to": "k12:2c984a85-d969-4a89-8618-f90b626a4f55",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池电极反应式的书写"
+ },
+ {
+  "from": "k12:7f95ee55-687e-4b27-9469-46181dbefbc8",
+  "to": "k12:8bef4ce3-17e6-4568-b16d-03025d3b0816",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池电极反应式的书写"
+ },
+ {
+  "from": "k12:801c3a21-4076-4287-ba25-9577223e5fbc",
+  "to": "k12:41b00478-1925-4c00-b9e1-35e30408a99e",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "will与be going to的语用辨析"
+ },
+ {
+  "from": "k12:801c3a21-4076-4287-ba25-9577223e5fbc",
+  "to": "k12:6fd3ae75-16f1-4678-94cc-cbdc98648eee",
+  "via": "phase2",
+  "sim": 0.81,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "will与be going to的语用辨析"
+ },
+ {
+  "from": "k12:80d2ed59-88ee-485a-acee-b10ae659961a",
+  "to": "k12:ec779fae-5f02-44a2-9d56-f8122ace52c5",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "古诗词情感主旨把握"
+ },
+ {
+  "from": "k12:810b2253-8b4c-4ff1-8638-3fb64999969b",
+  "to": "k12:1e4138ef-af82-48b9-b5ad-eaa3b8019390",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "按事情发展顺序把握课文主要内容"
+ },
+ {
+  "from": "k12:81cd9be2-9d8e-426d-9301-ff06ee9bab37",
+  "to": "k12:15d6f482-d21f-43f1-9ee6-16ec18406e48",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "复韵母 ai ei ui 的认读与四声拼读"
+ },
+ {
+  "from": "k12:81cd9be2-9d8e-426d-9301-ff06ee9bab37",
+  "to": "k12:b7bc2cbf-ed98-486f-9675-0ceb39d9271d",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "复韵母 ai ei ui 的认读与四声拼读"
+ },
+ {
+  "from": "k12:82266680-053a-4db4-8b58-5e9605355d45",
+  "to": "k12:918358e5-7856-484d-9b1c-6d1bdc68fcad",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原子结构示意图的绘制与解读"
+ },
+ {
+  "from": "k12:832f3c4e-ade1-4b5f-9798-cca7c503d857",
+  "to": "k12:c0bfc16d-52e8-4a22-8c16-956d671e6afa",
+  "via": "phase2",
+  "sim": 0.35,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "中和滴定终点判断与酚酞指示剂变色原理"
+ },
+ {
+  "from": "k12:839073fa-3695-485c-a4b2-71cc1fc1869f",
+  "to": "k12:eb247f88-b604-43bd-bcc2-2dc61fd74b76",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "环境污染类词汇认读与语境运用"
+ },
+ {
+  "from": "k12:8414aa5a-fcc0-458a-ae7d-de662d068a12",
+  "to": "k12:00931ea6-6ba4-425d-9212-bfca47539454",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《大道之行也》文言特殊句式识别"
+ },
+ {
+  "from": "k12:8555c447-2855-4b48-b93b-a1c4f62d56b5",
+  "to": "k12:20dd63b5-dc16-4efb-99fa-356a0cb715f4",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "that/who/which引导定语从句的选用规则"
+ },
+ {
+  "from": "k12:85a8a4f1-88d9-4d90-8bd4-cf661a9e0dbc",
+  "to": "k12:f286cb61-780f-4523-930a-ea8ba9d168de",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be supposed to 与 should / must 的语用对比"
+ },
+ {
+  "from": "k12:85b2233e-fd3b-4148-b3c6-b9cd5e072f64",
+  "to": "k12:299fe08d-4120-44d1-9d4b-13c632bb6df7",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "说明性语篇主题句与支撑细节识别（以河流对话为例）"
+ },
+ {
+  "from": "k12:85c89845-d668-4f9d-82c5-cc1f1f029820",
+  "to": "k12:0b876414-6457-4c6a-85e4-c1f30ee333e8",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "媒介信息真伪辨识方法"
+ },
+ {
+  "from": "k12:8625a357-2530-4ab4-84a6-62bf07395ec2",
+  "to": "k12:1b21ab4e-a3f5-4d18-954a-80f5ecf0e27b",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "同周期元素金属性与非金属性的递变规律"
+ },
+ {
+  "from": "k12:86627599-e165-4516-8d1d-617aed88c6ea",
+  "to": "k12:da5276cf-b119-4d67-a865-d1c206e946ab",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "通过典型动作描写表现人物特点"
+ },
+ {
+  "from": "k12:87361926-00d2-4bc0-8e38-9a338a3f0cd5",
+  "to": "k12:84c93bd3-e5a0-44ba-ac54-4461c0f54a2b",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "杂化轨道理论基本类型与结构关联"
+ },
+ {
+  "from": "k12:87361926-00d2-4bc0-8e38-9a338a3f0cd5",
+  "to": "k12:cc95fea2-6dbe-4dad-a4ed-4a7019f885c3",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "杂化轨道理论基本类型与结构关联"
+ },
+ {
+  "from": "k12:89b302b5-5008-48f2-bbc8-b44b986bccbc",
+  "to": "k12:d94f67bc-9634-4704-bd0f-da74b4fb70ae",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "炼字赏析：动词与形容词的表达效果"
+ },
+ {
+  "from": "k12:8a1d00e9-bcc6-4546-83af-5766e29f6008",
+  "to": "k12:3237a816-9a9e-44b5-80c5-d58ef3a93d3f",
+  "via": "phase2",
+  "sim": 0.63,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "饮食偏好表达句式（like/love/hate + 食物名词/动名词）"
+ },
+ {
+  "from": "k12:8a40440a-cb60-4593-8e3f-b00f07d13b0d",
+  "to": "k12:4082a5ca-5b74-47ee-b33e-45adb26bd8dc",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "It's/They're + 介词短语回答句型"
+ },
+ {
+  "from": "k12:8a40440a-cb60-4593-8e3f-b00f07d13b0d",
+  "to": "k12:4a485440-83ae-4bb7-8fad-b3625f750ee7",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "It's/They're + 介词短语回答句型"
+ },
+ {
+  "from": "k12:8c028d76-92e0-4160-90af-7ce1b44bb560",
+  "to": "k12:1503475e-65ad-44f3-bf9e-6d57bc8cbba8",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "不定式作主语与宾语补足语的句法功能"
+ },
+ {
+  "from": "k12:8c028d76-92e0-4160-90af-7ce1b44bb560",
+  "to": "k12:77726832-3b36-4841-8e6c-2eeee239d662",
+  "via": "phase2",
+  "sim": 0.31,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "不定式作主语与宾语补足语的句法功能"
+ },
+ {
+  "from": "k12:8c19e6f8-7885-4ecd-8c4a-f30ff5cb40de",
+  "to": "k12:5e9b4a84-d006-4e68-83f5-99d94fc3cf54",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读"
+ },
+ {
+  "from": "k12:8c19e6f8-7885-4ecd-8c4a-f30ff5cb40de",
+  "to": "k12:6b3d82a4-3ad5-4690-b5f6-fa3cc5962de1",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读"
+ },
+ {
+  "from": "k12:8c19e6f8-7885-4ecd-8c4a-f30ff5cb40de",
+  "to": "k12:ad8106ea-8c43-42ff-a5fa-6c79368fe800",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读"
+ },
+ {
+  "from": "k12:8c19e6f8-7885-4ecd-8c4a-f30ff5cb40de",
+  "to": "k12:f2e90a4e-0e7f-41a9-b542-f769c0039915",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "单韵母 i u ü 的认读"
+ },
+ {
+  "from": "k12:8ece2df7-1305-409b-8675-36501c2a3650",
+  "to": "k12:02e9b789-fcbf-41ef-b3cb-195a255c89bc",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "说明方法辨析（举例子、列数字、作比较、下定义、打比方）"
+ },
+ {
+  "from": "k12:8ece2df7-1305-409b-8675-36501c2a3650",
+  "to": "k12:828a8806-1f80-411d-99a1-b7388314a996",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "说明方法辨析（举例子、列数字、作比较、下定义、打比方）"
+ },
+ {
+  "from": "k12:8ece2df7-1305-409b-8675-36501c2a3650",
+  "to": "k12:d0e74feb-5940-40bc-9cf1-16af2a1ff30c",
+  "via": "phase2",
+  "sim": 0.25,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "说明方法辨析（举例子、列数字、作比较、下定义、打比方）"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:17362308-7c15-4a67-885e-8c4071f7ed05",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:2692707b-f2dc-4b43-80f8-2fb5abf0773b",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:3681d219-0cc0-403b-976f-084f05e87650",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:3e48ebc1-800a-4c6d-a081-51df62731ca5",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:5659f560-706f-4471-8682-5ae853679673",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:899935a2-ba76-4149-be03-9ec7b8b459e9",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:aa1a84fb-5864-431f-87a5-ff7dd1bd5d9d",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:c9a4dfc6-3e6f-4fce-8b5b-d2067f1ff695",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8ee34ec6-9524-41c1-a0e0-3e6d20cff3d6",
+  "to": "k12:d630df3c-18cf-4af6-ab8c-68ba55452236",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应的电子转移本质"
+ },
+ {
+  "from": "k12:8f24b12c-a837-4af9-bccc-7018a01150a4",
+  "to": "k12:b3579e52-9347-465b-8837-8f46dcc1e309",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "光合作用与呼吸作用的对比"
+ },
+ {
+  "from": "k12:8fceaf3d-a339-4f18-b20a-0294d1e74f2b",
+  "to": "k12:1a6a6f2e-f6d3-479a-9fd7-e27139ec312b",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "说明文阅读策略（略读/扫读）"
+ },
+ {
+  "from": "k12:8fceaf3d-a339-4f18-b20a-0294d1e74f2b",
+  "to": "k12:821ff3fb-4f95-406f-8b56-f91ddea34f74",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "说明文阅读策略（略读/扫读）"
+ },
+ {
+  "from": "k12:902947bb-b6e7-4009-91bc-452c498db168",
+  "to": "k12:f593162a-93ee-48fd-b41f-c1073c2c2b87",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《蜀道难》的浪漫主义艺术风格"
+ },
+ {
+  "from": "k12:903a38c2-5e21-4f3e-a97e-892cd0c2cda1",
+  "to": "k12:01131f3a-a4c6-4886-b400-5686af6a8cba",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "叠词与拟声词在描写中的作用"
+ },
+ {
+  "from": "k12:90ee3c81-183b-4bf7-a629-c52d5c652c80",
+  "to": "k12:22eec5d5-a6dd-49b4-9229-59ffc0c3d1a7",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "'我'的情感变化轨迹与第一人称叙述视角效果"
+ },
+ {
+  "from": "k12:911167eb-636f-47a8-8957-fc3d1b6ad191",
+  "to": "k12:c160bd17-bfa1-466c-a8bc-9314c42fdf5c",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电磁波在真空中传播及光速值"
+ },
+ {
+  "from": "k12:925e86dc-0550-4a04-aaa7-c1ef6e18acfc",
+  "to": "k12:07b1833d-079a-434f-ace9-8b9cc122b1d4",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "课文主要内容概括"
+ },
+ {
+  "from": "k12:934fe259-6f8b-43e9-8903-3bcd9539eedd",
+  "to": "k12:6a3fb253-98c1-4cac-b913-3095ccdae8a8",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "情节结构梳理（开端/发展/高潮/结局及其作用）"
+ },
+ {
+  "from": "k12:934fe259-6f8b-43e9-8903-3bcd9539eedd",
+  "to": "k12:aa323141-79c9-489e-baac-2ae454447471",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "情节结构梳理（开端/发展/高潮/结局及其作用）"
+ },
+ {
+  "from": "k12:934fe259-6f8b-43e9-8903-3bcd9539eedd",
+  "to": "k12:b7823234-8027-4826-8aac-1e10dbf3481d",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "情节结构梳理（开端/发展/高潮/结局及其作用）"
+ },
+ {
+  "from": "k12:9367f6dc-fd97-4b8a-9b6e-5e98c8a02d12",
+  "to": "k12:8cf49998-88f2-473f-8969-1e9e94bdacff",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "串联电路电压规律"
+ },
+ {
+  "from": "k12:9367f6dc-fd97-4b8a-9b6e-5e98c8a02d12",
+  "to": "k12:9b190abe-9609-4f0e-99aa-0bf9534abbfc",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "串联电路电压规律"
+ },
+ {
+  "from": "k12:93e8ea2d-bcdd-49d8-839c-924133851f18",
+  "to": "k12:7d771a36-9823-4318-8c0d-87c5cee5277e",
+  "via": "phase2",
+  "sim": 0.48,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "一对相对性状杂交实验的现象与数据规律"
+ },
+ {
+  "from": "k12:93e8ea2d-bcdd-49d8-839c-924133851f18",
+  "to": "k12:e38df6ee-853b-48c5-beaf-23c80b0c9d5c",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "一对相对性状杂交实验的现象与数据规律"
+ },
+ {
+  "from": "k12:93e8ea2d-bcdd-49d8-839c-924133851f18",
+  "to": "k12:e6cc47fb-06c2-4e70-8c99-e6cc7309f878",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "一对相对性状杂交实验的现象与数据规律"
+ },
+ {
+  "from": "k12:94c2768b-d737-4c03-a75a-ea7f91b0878c",
+  "to": "k12:01ea545f-b6c1-465e-94fb-229afab33e92",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在完成时与一般过去时的语义对比辨析"
+ },
+ {
+  "from": "k12:94fc1cc5-37b5-4437-afec-07ea753bf66b",
+  "to": "k12:394a47dc-89ba-422b-b486-cbb5f0a42fd2",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "核力的性质"
+ },
+ {
+  "from": "k12:9505d7ba-20f9-4e9c-bd78-9f1b9502fcec",
+  "to": "k12:5c3630e2-7cb3-40a3-9d58-f2ffb51baf34",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "声母 j q x 的认读与发音"
+ },
+ {
+  "from": "k12:95c12aa4-23a2-4deb-b8be-19ee8708c3b0",
+  "to": "k12:6a797bee-a26c-4ea1-a4d7-8f18d8d140a4",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "翘舌声母 zh ch sh r 的认读与发音"
+ },
+ {
+  "from": "k12:95c12aa4-23a2-4deb-b8be-19ee8708c3b0",
+  "to": "k12:ee82c715-fb57-46cd-b86a-f0caf9397f0c",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "翘舌声母 zh ch sh r 的认读与发音"
+ },
+ {
+  "from": "k12:95e8f993-e611-42b2-aa24-bd2c5a9e6148",
+  "to": "k12:a7e04599-d5f8-46a3-9c84-414aca79da46",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "精子形成过程的阶段性与细胞类型转化"
+ },
+ {
+  "from": "k12:9752445d-8cc8-4451-b0e1-37335ad49762",
+  "to": "k12:cc561d5c-f90e-4848-b9b0-f0a3ee75ac0c",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电势差的定义与符号约定"
+ },
+ {
+  "from": "k12:97aae05f-325e-4651-924a-47123d3cbe0b",
+  "to": "k12:031a32e6-acfd-4905-8a80-5d315de79ad1",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "控制变量法实验设计"
+ },
+ {
+  "from": "k12:980e9ea5-bf67-4cbe-8512-3800f6760ece",
+  "to": "k12:069ba311-f503-464c-87ab-0d5b2deef92c",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生态系统能量流动的过程"
+ },
+ {
+  "from": "k12:98c3d7c5-d3dd-4c45-b4f2-b023c28a8d46",
+  "to": "k12:27986c54-6d46-4367-a292-6978b9b385d8",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "糖类的分类与结构特征"
+ },
+ {
+  "from": "k12:9a60e1cb-bd2d-48d7-8a4e-dfb66b337eab",
+  "to": "k12:74a10c27-71d9-443e-9b84-0af127942add",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "物质的量浓度及其计算"
+ },
+ {
+  "from": "k12:9a60e1cb-bd2d-48d7-8a4e-dfb66b337eab",
+  "to": "k12:aeff498d-9346-4a6b-a3ca-c0b110ee48bf",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "物质的量浓度及其计算"
+ },
+ {
+  "from": "k12:9a60e1cb-bd2d-48d7-8a4e-dfb66b337eab",
+  "to": "k12:cccae3f5-5d07-43a4-9292-62ba51a6af73",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "物质的量浓度及其计算"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:13fa939b-b641-44fd-9425-392c41b6460b",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:4896e5e8-5d0d-443e-af2a-c0c2ee9fb62a",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:5736b32b-6c61-4317-8323-6f82e5a4222b",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:5d17f204-ad9e-4933-b481-744837131c50",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:65382d8c-bc98-49ac-a8c8-51a6ef1ab21c",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:9c257537-7fe5-4116-992f-109097c7bd05",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:a6ff6e17-7c50-490c-9b8c-36d3beab16cc",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:b237e6ea-9d58-4d3c-9a08-9815dd56ca89",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:b67461e4-5efa-4500-a2cb-2a5227085fb0",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9ad3597d-7a75-47e6-8d28-6b38cb56e337",
+  "to": "k12:f7b634e9-d3e6-4d3f-bff4-66f9d759eb8a",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "动词过去分词形式拼写规则与不规则变化"
+ },
+ {
+  "from": "k12:9af3759d-67bc-4eb4-a7b8-d441277cfea3",
+  "to": "k12:560abda7-27bf-42dd-9cc4-2ecc1b7436d5",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物体结构层次排列（细胞→组织→器官→个体）"
+ },
+ {
+  "from": "k12:9ba4c27b-22d1-4729-9347-e34d4f614b0e",
+  "to": "k12:1bd4c84b-a1e9-4215-8c9f-dcbf8335769b",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "物理性质与化学性质的辨别"
+ },
+ {
+  "from": "k12:9bda86e0-8fd3-432a-b911-d9723a028626",
+  "to": "k12:e3eb0d86-5073-4798-a2ae-def2d25b7f18",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "分子极性与非极性分子的判别"
+ },
+ {
+  "from": "k12:9c8a08d8-2cc1-472c-a546-f401974650fd",
+  "to": "k12:8b72a8b2-6ae8-4a8a-b966-666e1d79e1e8",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言虚词辨析：而、之、于"
+ },
+ {
+  "from": "k12:9c8a08d8-2cc1-472c-a546-f401974650fd",
+  "to": "k12:bf000714-73e0-42fa-ada6-878022c80019",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言虚词辨析：而、之、于"
+ },
+ {
+  "from": "k12:9c8a08d8-2cc1-472c-a546-f401974650fd",
+  "to": "k12:c4a891c1-f07a-4d85-82de-f5d5f1f51ad4",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "文言虚词辨析：而、之、于"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:22821fc2-0beb-45d9-89c1-3997bc3c8f67",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:3e8d52a8-b3f6-4e77-96fa-043b195ce94a",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:46551963-9a54-4e87-b9b3-b6e2146f2098",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:815ca022-06d2-4ef2-8826-74c12d103e31",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:82bd1b81-7e5f-4cd8-8a9e-0e41281a8087",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:d563854b-22bb-45c2-9e45-9a8a4f08ac1a",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9cd4778f-77e0-4c3e-a888-311de74aff18",
+  "to": "k12:dc0bd10b-c156-4847-8614-ab8252ef63d0",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 7,
+  "subject": "化学",
+  "node": "弱电解质的电离平衡及其动态特征"
+ },
+ {
+  "from": "k12:9d3e5737-200b-4971-bd74-a95872e98f43",
+  "to": "k12:91d1c2ba-1640-4cda-a3f8-13e4e32b7cf3",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "质量守恒定律与化学方程式综合应用"
+ },
+ {
+  "from": "k12:9d3e5737-200b-4971-bd74-a95872e98f43",
+  "to": "k12:af3b0abd-3fed-40b0-a460-40eab4ae94bc",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "质量守恒定律与化学方程式综合应用"
+ },
+ {
+  "from": "k12:9d5ab8da-36db-4759-b861-a8fd6eff0103",
+  "to": "k12:e0dab96d-2527-4ad9-9c45-e20d93cbc3f5",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时第三人称单数形式"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:3a42b7a3-0057-4bf3-943f-c7295fc4eb22",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:5f38a63d-56a8-4e54-9e0f-5d393a64e16b",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:61c4b480-55d4-4dea-8479-8c3f286bb65c",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:868b44fb-21e0-4d8b-8c18-77214d8d7da6",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:b5727031-062c-4bf2-a5cc-054200753712",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e52a0ef-15e1-4d08-a9f2-b117aa08bcdd",
+  "to": "k12:fa8d35fa-c3fd-41f2-8c46-58c984fed2de",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 6,
+  "subject": "物理",
+  "node": "闭合电路的欧姆定律（电流形式）"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:14662e00-3d50-415a-b24a-b5533841120c",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 4,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:27c02d79-7533-48ec-ac56-1f1032b77122",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:7af373c1-95c9-45e4-b4e2-72651121b417",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 4,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:8061e9c6-4fdc-4460-80d1-ecda81012700",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:824933d4-7938-43af-bb14-95578d25a450",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 4,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:aef8d9f9-c534-4e71-b8a1-d4b2f26cb1ec",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9e5fbf13-13cd-4179-80ac-b7a1314fcbd1",
+  "to": "k12:e765514e-e013-43e0-beea-2c10cc104554",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "生物",
+  "node": "基因工程的基本原理与应用"
+ },
+ {
+  "from": "k12:9f3f7c90-7c8d-47e6-9220-4e0e8673910d",
+  "to": "k12:c61f4590-8e9b-46e0-a300-0141bc991880",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "四冲程汽油机工作原理"
+ },
+ {
+  "from": "k12:9f9f8680-3555-4a8f-8f86-db94ea9e9ed7",
+  "to": "k12:c11fcac6-fd00-417f-97c2-21d14fee7bdb",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物细胞有丝分裂各时期的显微识别"
+ },
+ {
+  "from": "k12:a0794a8f-dbae-4dd4-91ea-62de7bdf4561",
+  "to": "k12:560b1672-9ac1-443e-9eaf-5864521b29b0",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "酶活性及其影响因素"
+ },
+ {
+  "from": "k12:a0bed588-a83b-4aa5-b1e3-56d0b0221517",
+  "to": "k12:7a8e257a-d0eb-45d5-af4c-857b9561e8c2",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学反应限度与化学平衡建立"
+ },
+ {
+  "from": "k12:a0c4b090-f289-46c0-9aa9-3a127527105b",
+  "to": "k12:64ffbe98-3eba-4faa-9796-7abb9b1110a1",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般过去时被动语态的否定陈述句构成"
+ },
+ {
+  "from": "k12:a0c4b090-f289-46c0-9aa9-3a127527105b",
+  "to": "k12:7d2288ae-9868-4d57-aa9b-ea67a7bb31d9",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般过去时被动语态的否定陈述句构成"
+ },
+ {
+  "from": "k12:a0c4b090-f289-46c0-9aa9-3a127527105b",
+  "to": "k12:f169de37-b5ab-4f6f-9ff8-f3fecf075409",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "一般过去时被动语态的否定陈述句构成"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:1bd16e52-415c-48c9-9303-a0b42f1fd1e5",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:43cacec8-eff8-4a8d-a557-5cc5c41d2999",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:649e0e0f-084e-417e-91f4-39cff57d6c7b",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:704ec1f5-9166-4548-9968-d800452e1852",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:9a381b55-a69f-4580-a601-82ef5fb412db",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:a62c21b1-49fe-4e22-9c01-08d646e53f54",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:b0e1cb1b-2921-4f24-9ce0-ecce1f9ab825",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1abd8ea-2589-4310-9042-facb4a35631c",
+  "to": "k12:f194d872-8e13-4f79-a832-f0509901fb51",
+  "via": "phase2",
+  "sim": 0.82,
+  "mentions": 7,
+  "subject": "英语",
+  "node": "过去分词规则变化与不规则变化"
+ },
+ {
+  "from": "k12:a1bc3170-58ce-4990-84f7-a95795a85e0c",
+  "to": "k12:ea4155f7-3d4f-40ad-91d7-a825cb8ba1e0",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "声母 z c s 的认读"
+ },
+ {
+  "from": "k12:a1e84d27-9327-4dc3-bdc9-7228c2820d6b",
+  "to": "k12:7dfa1e59-d8b0-4977-bfc8-4eba78d0b4a0",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "生动说明与平实说明的语体功能辨析"
+ },
+ {
+  "from": "k12:a225708d-affc-4b0e-adfc-e8f9242d9872",
+  "to": "k12:a9fec4a5-317c-4f5b-a587-106c95427d9f",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《假如生活欺骗了你》的情感态度与哲理理解"
+ },
+ {
+  "from": "k12:a3085a13-73df-43a6-af12-5bb75577a494",
+  "to": "k12:190d47c0-de78-4302-8e3c-62c88b87486f",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "水的电离平衡与水的离子积常数"
+ },
+ {
+  "from": "k12:a3085a13-73df-43a6-af12-5bb75577a494",
+  "to": "k12:513524c3-d33a-4eff-a483-94c4a923babd",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "水的电离平衡与水的离子积常数"
+ },
+ {
+  "from": "k12:a490df8a-5aad-4023-a56e-e7327791af35",
+  "to": "k12:fb45827d-ad60-4577-9c72-9cac8170a804",
+  "via": "phase2",
+  "sim": 0.37,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《太空一日》第一人称叙事视角的真实感建构分析"
+ },
+ {
+  "from": "k12:a4ac4b48-9e06-4756-870a-a62738a971a2",
+  "to": "k12:f6f49b66-9d2d-4127-99eb-8e28f0ddfdb6",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "免疫缺陷病的分类与典型代表"
+ },
+ {
+  "from": "k12:a5105cf1-0258-4d38-9ca2-602b6c734dea",
+  "to": "k12:6c10eee1-98e4-4d29-af7a-a8f7256bbb97",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电阻的概念与物理意义"
+ },
+ {
+  "from": "k12:a5734ea8-2773-484b-bffe-2480de258c47",
+  "to": "k12:17475d86-358e-4a9e-81fb-d03bb56c727e",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生物因素对种群数量变化的影响"
+ },
+ {
+  "from": "k12:a5a1dc85-0fac-4731-8850-6153e93e930d",
+  "to": "k12:89f3174c-7e7e-46cf-92f6-7b2821a49007",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "DNA碱基序列承载遗传信息"
+ },
+ {
+  "from": "k12:a5b2b4f3-a900-4b5b-8715-2300bd78ed6a",
+  "to": "k12:5c3ddea1-f5c4-4bf4-942d-58239debb51a",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "‘太阳’‘蓝天’‘怀抱’等核心意象的象征意义理解"
+ },
+ {
+  "from": "k12:a5b2b4f3-a900-4b5b-8715-2300bd78ed6a",
+  "to": "k12:efab0654-05d0-4163-bffb-9929ebd26d17",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "‘太阳’‘蓝天’‘怀抱’等核心意象的象征意义理解"
+ },
+ {
+  "from": "k12:a84de459-f4dd-427e-a349-14c33b03a108",
+  "to": "k12:6ea0da6f-08b0-461f-b8de-85b0f322adcf",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "诗歌意象的识别与情感阐释"
+ },
+ {
+  "from": "k12:a8a67c27-4403-4d57-a48b-43e1f5b85629",
+  "to": "k12:dc46eae7-19be-45e8-b325-9644ad0da943",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池与电解池的能量转化本质"
+ },
+ {
+  "from": "k12:a9e381a0-6ff8-4c11-be27-819eb9bf07d1",
+  "to": "k12:3feac890-40b3-4a1d-adf4-61f8e49ba4ec",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "西北高原景物描写与情景交融的铺垫作用"
+ },
+ {
+  "from": "k12:acea717e-7a04-4946-a713-9578c41bd6b8",
+  "to": "k12:f6787b65-ad90-4669-9745-dc323b0a8a16",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电磁波的产生条件与本质"
+ },
+ {
+  "from": "k12:ad0f463a-2a56-49dc-a800-7b5532f5aaf8",
+  "to": "k12:1a16ac6b-f41c-4258-858f-27b818c8e367",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 8,
+  "subject": "物理",
+  "node": "万有引力定律的表述与适用条件"
+ },
+ {
+  "from": "k12:ad0f463a-2a56-49dc-a800-7b5532f5aaf8",
+  "to": "k12:6677a8bf-a61c-4f82-9c3d-417d73a931b2",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 8,
+  "subject": "物理",
+  "node": "万有引力定律的表述与适用条件"
+ },
+ {
+  "from": "k12:ad1d1549-d2c5-4e9e-a38f-22fa2d1ebca6",
+  "to": "k12:7a0d2d59-eaf8-40ff-9af4-5ef80b1473ff",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "说明文语言的准确性表达"
+ },
+ {
+  "from": "k12:ad207a8b-a5c7-464b-8511-d84722d08f53",
+  "to": "k12:e298ef19-fabc-4d89-b395-db6531e5a09b",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "核电荷数与质子数的关系"
+ },
+ {
+  "from": "k12:ad80aa50-55ff-4868-9441-25614362c716",
+  "to": "k12:10649ec9-679b-40a3-84f1-c44743faeb62",
+  "via": "phase2",
+  "sim": 0.78,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "will表达主动提供帮助（offer）"
+ },
+ {
+  "from": "k12:ad80aa50-55ff-4868-9441-25614362c716",
+  "to": "k12:2cb50d58-4098-4f34-83aa-a52560b6d07b",
+  "via": "phase2",
+  "sim": 0.78,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "will表达主动提供帮助（offer）"
+ },
+ {
+  "from": "k12:ae792efc-e277-4ccd-89e0-adbab997cc8a",
+  "to": "k12:40d3e44d-bd43-4c98-bc70-72aaa827bb41",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "马克思主义认识论的基本原理"
+ },
+ {
+  "from": "k12:ae792efc-e277-4ccd-89e0-adbab997cc8a",
+  "to": "k12:5fd8c39a-9d04-405e-a57d-9f152532d39c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "马克思主义认识论的基本原理"
+ },
+ {
+  "from": "k12:ae792efc-e277-4ccd-89e0-adbab997cc8a",
+  "to": "k12:d1b76153-e639-45ff-a801-da854cce37fa",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "马克思主义认识论的基本原理"
+ },
+ {
+  "from": "k12:ae792efc-e277-4ccd-89e0-adbab997cc8a",
+  "to": "k12:d9b98ed3-1be6-495a-b136-d29a5ae14273",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "马克思主义认识论的基本原理"
+ },
+ {
+  "from": "k12:aeadf53d-e527-4099-b151-91aa70e70dbe",
+  "to": "k12:e4481a37-f893-478a-92bf-6b8a683259de",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "比喻句的初步感知与仿说"
+ },
+ {
+  "from": "k12:aec53ada-be3b-48d4-aedf-e43646853081",
+  "to": "k12:1e1f72ab-68d2-4c68-8549-2085814cdc5f",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "固体反应物表面积对反应速率的影响"
+ },
+ {
+  "from": "k12:aefe644e-ff5f-483d-b334-fe7283432a52",
+  "to": "k12:6e36f63c-2d1a-42f8-a3c2-5ff306b55124",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "运动益处的因果表达（because/so）"
+ },
+ {
+  "from": "k12:af2db6f2-261b-4e81-b5a4-38f645e6f8bc",
+  "to": "k12:2faa64b4-4e72-4be5-8c9a-d208467d2869",
+  "via": "phase2",
+  "sim": 0.31,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "动词基本形式在语篇中的语法填空应用"
+ },
+ {
+  "from": "k12:b0210bb4-7ec4-432e-bdfc-33211a776d13",
+  "to": "k12:681d6d45-01c8-4b3f-b87a-6819d23af558",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "联系上下文和生活经验理解词语"
+ },
+ {
+  "from": "k12:b0210bb4-7ec4-432e-bdfc-33211a776d13",
+  "to": "k12:b51d3d03-a018-4eaf-8de4-50cc84083906",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "联系上下文和生活经验理解词语"
+ },
+ {
+  "from": "k12:b0333b14-9151-4ff8-b436-de0d04c331c5",
+  "to": "k12:62702ffc-29f6-40ee-ade4-e3f0df93e387",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "Why特殊疑问句结构"
+ },
+ {
+  "from": "k12:b03fdeac-c100-44e3-9eab-11724359a18e",
+  "to": "k12:133c95d6-0f1c-4912-a2c8-20e5f929477a",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "爱国主题古诗名句积累与理解"
+ },
+ {
+  "from": "k12:b0943dbc-9269-4e95-8d29-efb4aa22bf09",
+  "to": "k12:02fcbdf8-5544-4ae5-8a7d-fd15b0a5f4a6",
+  "via": "phase2",
+  "sim": 0.61,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "驳论文三段式结构（树靶-批驳-正面立论）"
+ },
+ {
+  "from": "k12:b0af9084-6b35-4673-8e34-b50c6f3868f8",
+  "to": "k12:1678f53b-288a-4ad3-ae31-3b054466623a",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "新闻语言特点（准确性、简洁性、时效性）"
+ },
+ {
+  "from": "k12:b15ec7c0-c638-4328-a9d6-a193e261c501",
+  "to": "k12:6fd3ae75-16f1-4678-94cc-cbdc98648eee",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "may / might 表达不确定可能性"
+ },
+ {
+  "from": "k12:b36204ff-2b3e-496d-8cab-ecc670430647",
+  "to": "k12:20ad8e67-bfff-43e9-82ef-55dcb3324a50",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "卤代烃的取代反应（水解反应）"
+ },
+ {
+  "from": "k12:b368602c-7f58-47dd-8b52-e038fe93cee3",
+  "to": "k12:ed18f681-4279-42d8-9ded-93a1885e4ebd",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "v-t 图像下面积表征位移的物理意义"
+ },
+ {
+  "from": "k12:b4bab981-1a42-45d5-87e3-c89a8e64b92f",
+  "to": "k12:a0e755e8-8595-4b5e-beeb-9028044c41e7",
+  "via": "phase2",
+  "sim": 0.38,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人体器官与动作行为字：口、耳、目、手、足、站、坐"
+ },
+ {
+  "from": "k12:b58674b6-a261-4a46-aa6d-7502df2986cd",
+  "to": "k12:f6c52d0d-ab56-4de5-94cc-171634b88bd8",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "施力物体与受力物体的辨识"
+ },
+ {
+  "from": "k12:b61e6b36-ee0c-4a53-8d1e-87fe6f5e906f",
+  "to": "k12:1117a1ea-0c8f-4b2f-89ce-619f22d1e673",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "孟德尔分离定律的假说内容"
+ },
+ {
+  "from": "k12:b6a5e404-3331-47ce-8639-585b2b77e181",
+  "to": "k12:89663fa8-f3a0-4df6-82fb-edafabbcbba4",
+  "via": "phase2",
+  "sim": 0.48,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "生日日期询问与回答句型（When is...? / It's on...）"
+ },
+ {
+  "from": "k12:b701ea43-d73f-481d-be4b-fac034b453ef",
+  "to": "k12:9065e7e0-232e-4c36-baff-077d0afae4bc",
+  "via": "phase2",
+  "sim": 0.79,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池与电解池的对比分析框架"
+ },
+ {
+  "from": "k12:b7bc2cbf-ed98-486f-9675-0ceb39d9271d",
+  "to": "k12:57a2b36b-34ca-455e-9bf9-3eb3b2c367fb",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "含 ai ei ui 的常用词语认读与语境运用"
+ },
+ {
+  "from": "k12:b849841a-1fe1-4a55-8868-8758ff1909ee",
+  "to": "k12:cf079065-8829-4f4f-945d-ed440a4a5c14",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化还原反应与四种基本反应类型的关系"
+ },
+ {
+  "from": "k12:b8ea4585-b4a3-4b94-9bb6-184cad37913f",
+  "to": "k12:f0529a66-a50c-4329-8ff4-b2159a7be0a2",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "染色体结构的变异"
+ },
+ {
+  "from": "k12:b90723d5-5a23-4748-8243-35260980ae3a",
+  "to": "k12:a4ac4b48-9e06-4756-870a-a62738a971a2",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "体液免疫的基本过程"
+ },
+ {
+  "from": "k12:b97441cf-e67b-4ef9-865e-828a5e771780",
+  "to": "k12:99b97023-76c0-4b6d-95b3-15f0b68a8051",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "质量守恒定律内容表述"
+ },
+ {
+  "from": "k12:b9a702dc-d929-451d-be5e-f39ca7fe12f7",
+  "to": "k12:05f56b5f-7eda-425a-ad7d-93d1afd9dc38",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "非正式问候语 Hello 和 Hi 的认读与使用"
+ },
+ {
+  "from": "k12:b9a702dc-d929-451d-be5e-f39ca7fe12f7",
+  "to": "k12:619d31c9-7930-46df-b3d8-b66bed9721a6",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "非正式问候语 Hello 和 Hi 的认读与使用"
+ },
+ {
+  "from": "k12:ba080996-4b3b-4223-809c-052ab754c3d5",
+  "to": "k12:3681d219-0cc0-403b-976f-084f05e87650",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "原电池的构成要素与工作原理"
+ },
+ {
+  "from": "k12:bbd394d6-2121-4d03-a94f-7e53291ead8e",
+  "to": "k12:43e0be86-98a2-4b53-81f2-3918d1e04c8c",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "串联电路电压分配规律"
+ },
+ {
+  "from": "k12:bc6465f5-fdcf-4adc-9470-4112f5023e20",
+  "to": "k12:29464da7-6ad1-4006-8f75-e90e3c5968e5",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "be 动词 am/is/are 的人称一致性规则"
+ },
+ {
+  "from": "k12:bc6465f5-fdcf-4adc-9470-4112f5023e20",
+  "to": "k12:6e134b87-c26e-472d-9b7a-8c48d78b8792",
+  "via": "phase2",
+  "sim": 0.65,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be 动词 am/is/are 的人称一致性规则"
+ },
+ {
+  "from": "k12:bc6465f5-fdcf-4adc-9470-4112f5023e20",
+  "to": "k12:83160e4a-e916-47e0-8ba9-3794057489cd",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "be 动词 am/is/are 的人称一致性规则"
+ },
+ {
+  "from": "k12:bc6465f5-fdcf-4adc-9470-4112f5023e20",
+  "to": "k12:e0dab96d-2527-4ad9-9c45-e20d93cbc3f5",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be 动词 am/is/are 的人称一致性规则"
+ },
+ {
+  "from": "k12:bd30dc4f-4e4c-4220-bbd8-708b305576a2",
+  "to": "k12:631b91eb-886a-42b7-bbfa-8606ce986020",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时第三人称单数动词原形保留规则"
+ },
+ {
+  "from": "k12:c036293b-de4e-4192-b304-bc00a96ec130",
+  "to": "k12:560b1672-9ac1-443e-9eaf-5864521b29b0",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "光合作用的总反应式与本质"
+ },
+ {
+  "from": "k12:c036293b-de4e-4192-b304-bc00a96ec130",
+  "to": "k12:9eb7ff05-438f-4b50-9e46-07d64a4233c8",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "光合作用的总反应式与本质"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:0219f25e-c2cf-4cc8-915d-a0f155c4555a",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:1b67566b-aa85-436a-8917-01df299eb5af",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:2a8428ee-8e07-435f-b701-04cc947e4afa",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:3af7d266-16dc-4031-b8ab-b06b44971bb3",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:3d440138-136f-4047-b39d-84eb88d3c683",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:4344a832-2b1b-4f81-ae11-1c542d23a036",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:4370e1fc-78ee-47a7-8390-c9dd0718e71e",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:559909e9-788d-43a2-94e2-279854da8d3f",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:5b94f2a1-2018-4c7e-bae0-2e307af60bdd",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:5cbab15a-d099-4467-979a-f6afb417919e",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:626fc2df-2fdf-4ccf-90f9-6b5f21af57b2",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:76d96d4a-cf48-4482-942c-c1f2cc605503",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:798f0516-ad0b-4fdf-a242-d77362e341b3",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:c4725770-5a3b-435b-ba42-5e61a48d5d6e",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:d043cc3f-0a40-47cc-851b-b44f2f176a90",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:d99aa1e6-1bc6-42f6-ac60-ccae62115e1a",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:d9cb114a-7ef4-4a3d-aeec-962d996b284e",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:daa08684-1c0b-4036-a9f1-f395bef35248",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c2f76141-0bbd-4b2f-a87b-cc774bea6af0",
+  "to": "k12:ff611af2-0a41-4e68-9980-ed229545837d",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 19,
+  "subject": "物理",
+  "node": "牛顿第二定律的数学表达式与单位制约定"
+ },
+ {
+  "from": "k12:c46ed325-f69c-4a0c-b120-f8ce16124b3f",
+  "to": "k12:5e383002-7b4e-4b74-969e-8acab265e07e",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "说明顺序（逻辑顺序、时间顺序）识别与分析"
+ },
+ {
+  "from": "k12:c46ed325-f69c-4a0c-b120-f8ce16124b3f",
+  "to": "k12:f7181dcf-e932-4ef7-a4aa-9980dfc4b27d",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "说明顺序（逻辑顺序、时间顺序）识别与分析"
+ },
+ {
+  "from": "k12:c4c5d9d8-4fca-422a-a910-a57921c33b6e",
+  "to": "k12:4708d434-92c0-43b3-962b-aa30662b7bf8",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "σ键的形成与轴对称性"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:2721d841-0af8-41a5-8631-8d16f57e5517",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:37fa36c5-c546-4f66-8197-df90aebda2c3",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:9051505f-4c35-4566-871c-6a25973b5ec7",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:912503ed-8eb3-4cf4-882b-8e43800bf98d",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:c1308240-0873-4b9a-9640-21f28db755c2",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c4f4f263-bcd4-433c-9346-1255e0a3664f",
+  "to": "k12:ff450608-13ee-4ed6-b244-b364a9ccccef",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 6,
+  "subject": "语文",
+  "node": "《逢入京使》意象识别与分析：故园、东望、路漫漫、双袖、马上相逢"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:449bdb78-2b9a-4953-9052-029fa1b5034b",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:758e569c-28cd-4280-abc8-631d10320659",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:791ba5a3-ba68-40f4-904e-08ddb7e5c4f4",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:7f95ee55-687e-4b27-9469-46181dbefbc8",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:c75adb65-7e5e-4b40-82f6-11573c1b37df",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c6f7256b-11ce-48ca-96b6-299c9cead041",
+  "to": "k12:fddb2187-6ced-442c-81fd-1d4915882587",
+  "via": "phase2",
+  "sim": 0.62,
+  "mentions": 6,
+  "subject": "化学",
+  "node": "原电池的工作原理"
+ },
+ {
+  "from": "k12:c750fb4b-2391-40a9-bd93-4524d0720de4",
+  "to": "k12:51ae129a-5843-46e6-ad95-fa8e5adacb24",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "诗歌语言锤炼实践"
+ },
+ {
+  "from": "k12:c750fb4b-2391-40a9-bd93-4524d0720de4",
+  "to": "k12:9b7fcf01-03c6-463a-9203-0034bd91fcb4",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "诗歌语言锤炼实践"
+ },
+ {
+  "from": "k12:c79efbed-5228-4da8-9d7e-a34666049c5b",
+  "to": "k12:c4ff5e78-646c-4460-b1b9-a6a3d623f872",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "简谐运动的周期和频率"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:05277de9-49a6-497b-9fdd-6f0d324600ad",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:3ee934d4-a4d2-4f1a-84a7-c86a4677ea5d",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:84d46888-5cdf-4e29-9488-1cac78f4f0e9",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:9d3a2992-eb1c-4d38-afa0-ae8165123c91",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:a8a7a544-ac2c-4734-a9f3-0bb2c378c835",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:bf23f6f7-2016-4702-ace5-53a53bc0a2a9",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c85ca51e-f761-4e8c-9454-43d98aa45466",
+  "to": "k12:c61f4590-8e9b-46e0-a300-0141bc991880",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 7,
+  "subject": "物理",
+  "node": "基于能量守恒定律对永动机不可能性的论证"
+ },
+ {
+  "from": "k12:c8beaea8-af82-4a3e-8799-90c21ac19f97",
+  "to": "k12:09149ccd-5be4-495f-b7ff-aa7581c85731",
+  "via": "phase2",
+  "sim": 0.76,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "实义动词过去式规则变化（-ed）拼写规则"
+ },
+ {
+  "from": "k12:c946fba7-d891-43eb-830f-06ddb274c8cc",
+  "to": "k12:6ea0da6f-08b0-461f-b8de-85b0f322adcf",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "诗歌语言的凝练性与含蓄性鉴赏"
+ },
+ {
+  "from": "k12:c946fba7-d891-43eb-830f-06ddb274c8cc",
+  "to": "k12:9051505f-4c35-4566-871c-6a25973b5ec7",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "诗歌语言的凝练性与含蓄性鉴赏"
+ },
+ {
+  "from": "k12:c982b64d-1ef1-4213-86ba-1633033cdd56",
+  "to": "k12:ab5860c3-583f-499f-bb87-f31bba01f3b4",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "声母 zh ch sh r 的认读"
+ },
+ {
+  "from": "k12:caed555f-c8b0-4909-b044-2865da97d723",
+  "to": "k12:98d479df-ee29-443e-82ed-38d01b244cc7",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学反应中的能量转化本质"
+ },
+ {
+  "from": "k12:cc2e3b82-7415-4f0c-9303-8967ce1d29ce",
+  "to": "k12:3a6c860c-1afe-4559-a5b0-bdd9583b234d",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "电功率的定义与普适公式 P = UI"
+ },
+ {
+  "from": "k12:cc2e3b82-7415-4f0c-9303-8967ce1d29ce",
+  "to": "k12:74cb7829-7bd3-4d41-b516-f115fddbd4e6",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 2,
+  "subject": "物理",
+  "node": "电功率的定义与普适公式 P = UI"
+ },
+ {
+  "from": "k12:ccb9ffa4-c448-41e8-84fe-a50f79f3fdd5",
+  "to": "k12:34bb797b-0391-4404-8807-6a252d0be3f5",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "混合物与纯净物概念及判断"
+ },
+ {
+  "from": "k12:ccb9ffa4-c448-41e8-84fe-a50f79f3fdd5",
+  "to": "k12:6e63dd25-89e0-4dc0-bb41-31f8f8477d8b",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "混合物与纯净物概念及判断"
+ },
+ {
+  "from": "k12:cd237187-35d1-40c3-a2a3-f8f8d38e8b74",
+  "to": "k12:fc3b3296-238e-4a78-8ec5-a472e05d3831",
+  "via": "phase2",
+  "sim": 0.59,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "have/has 描述外貌特征的基本句型"
+ },
+ {
+  "from": "k12:cdaf0016-5c05-4726-bd9c-368912478c70",
+  "to": "k12:41103f0c-3e42-4903-9439-df87659c2b3e",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物精神品质提炼"
+ },
+ {
+  "from": "k12:cdaf0016-5c05-4726-bd9c-368912478c70",
+  "to": "k12:b91c3b2c-59bb-4c50-9696-d20b232dfb37",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物精神品质提炼"
+ },
+ {
+  "from": "k12:cdaf0016-5c05-4726-bd9c-368912478c70",
+  "to": "k12:eacd8b6a-8daf-4ddf-bb38-22f206a1c49d",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物精神品质提炼"
+ },
+ {
+  "from": "k12:ce352282-2f13-4f3d-8ffc-7ad3f7ce3017",
+  "to": "k12:09149ccd-5be4-495f-b7ff-aa7581c85731",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "be动词过去式was/were的肯定句用法"
+ },
+ {
+  "from": "k12:cea0e157-bb3b-4912-97c1-ed8f58f8bb5b",
+  "to": "k12:6a3fb253-98c1-4cac-b913-3095ccdae8a8",
+  "via": "phase2",
+  "sim": 0.37,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "人物形象分析方法（外貌/语言/行动/心理/侧面描写）"
+ },
+ {
+  "from": "k12:cf17193e-7188-42c6-8bd7-e42180f2c01e",
+  "to": "k12:a06d33f7-8de0-4240-a127-24e52a1e1171",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "温度对酶活性的影响"
+ },
+ {
+  "from": "k12:cfa46a38-16f5-4a05-a8b1-115b93f26e0f",
+  "to": "k12:57697058-f530-48e4-a99d-e5168bcee343",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "气体摩尔体积及其条件依赖性"
+ },
+ {
+  "from": "k12:cfa46a38-16f5-4a05-a8b1-115b93f26e0f",
+  "to": "k12:94c896e8-d67c-4107-8376-8bb903ee9b5c",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "气体摩尔体积及其条件依赖性"
+ },
+ {
+  "from": "k12:d043cc3f-0a40-47cc-851b-b44f2f176a90",
+  "to": "k12:3d440138-136f-4047-b39d-84eb88d3c683",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "向心加速度的大小公式"
+ },
+ {
+  "from": "k12:d1459460-1df1-4bf9-8907-9107681816da",
+  "to": "k12:9180c5c2-7845-4f03-82fb-e0d98625dea3",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "光密介质与光疏介质概念"
+ },
+ {
+  "from": "k12:d2ca31ae-6483-474d-8683-d1ca68ae550e",
+  "to": "k12:c4a891c1-f07a-4d85-82de-f5d5f1f51ad4",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "《论语》十二章文言实词释义（含一词多义）"
+ },
+ {
+  "from": "k12:d326218f-3b62-42a4-b6e6-fcd4d17f7095",
+  "to": "k12:8f3f0157-8daf-4028-aadc-8f7c62006149",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "克隆技术原理（体细胞核移植）"
+ },
+ {
+  "from": "k12:d3542fae-901d-4491-bad2-0043faf06787",
+  "to": "k12:136e397c-e16d-44a8-b724-0286089023d5",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "拟人修辞手法识别与趣味感知"
+ },
+ {
+  "from": "k12:d3f5a46a-762b-47d3-88c7-e28d97c03a68",
+  "to": "k12:451f5b62-53d6-44e8-880a-acf05f3a9a16",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "漫画寓意联系生活思考"
+ },
+ {
+  "from": "k12:d43941d0-b734-4e9d-bb18-277ce471ca9f",
+  "to": "k12:83e9f9be-57e8-43eb-a187-17fd6a6ee95d",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "现代诗《白桦》的朗读节奏与情感表达"
+ },
+ {
+  "from": "k12:d439a431-7f05-42a8-b206-281270c45c86",
+  "to": "k12:c128e513-ffc8-44f1-8610-e95d97cbe843",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "新闻语言打磨：客观性、准确性、简洁性三原则应用"
+ },
+ {
+  "from": "k12:d439a431-7f05-42a8-b206-281270c45c86",
+  "to": "k12:d3cadb22-d53c-4cf0-9b07-70c8486d4d2e",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "新闻语言打磨：客观性、准确性、简洁性三原则应用"
+ },
+ {
+  "from": "k12:d48815d9-412d-46b7-8e9f-cb60addef97d",
+  "to": "k12:6588740c-b007-4627-9a1f-3b11f4819706",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "人物行为与心理变化关联理解"
+ },
+ {
+  "from": "k12:d59d448c-c7e3-4a51-8788-87dee5f2620f",
+  "to": "k12:f9175aef-87c4-41fb-8c44-7bd1d9b71be3",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "科学探究的基本过程与关注点"
+ },
+ {
+  "from": "k12:d61a644a-dfec-45aa-bff0-6a3eb5f545e8",
+  "to": "k12:97f6475e-dc44-4e7a-a0a5-a3cbe893f921",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "科学探究六步骤"
+ },
+ {
+  "from": "k12:d61a644a-dfec-45aa-bff0-6a3eb5f545e8",
+  "to": "k12:be9c99b7-768b-42bc-ad36-1f6b53dab897",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "科学探究六步骤"
+ },
+ {
+  "from": "k12:d7431c21-7865-49a3-bb7c-5a7fe5c53b28",
+  "to": "k12:ba37506c-06cd-4578-b5f4-ef34dbab1ec0",
+  "via": "phase2",
+  "sim": 0.31,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "浓度对化学平衡移动的影响及Q-K判据"
+ },
+ {
+  "from": "k12:d8e4f5c4-c9dc-4bf5-b237-669f7b51af08",
+  "to": "k12:09149ccd-5be4-495f-b7ff-aa7581c85731",
+  "via": "phase2",
+  "sim": 0.52,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般过去时一般疑问句（Did + 主语 + 动词原形）"
+ },
+ {
+  "from": "k12:d99aa1e6-1bc6-42f6-ac60-ccae62115e1a",
+  "to": "k12:3d440138-136f-4047-b39d-84eb88d3c683",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "向心力的概念与方向特征"
+ },
+ {
+  "from": "k12:d9d5ab7c-a09a-4b15-95fc-20dcc00d1a91",
+  "to": "k12:ad1c6a29-8b80-4863-9517-1e8e0b4b908b",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 3,
+  "subject": "物理",
+  "node": "机械能守恒定律的条件与表述"
+ },
+ {
+  "from": "k12:da538bdd-c791-4f4b-9d50-3f60517f48b7",
+  "to": "k12:22cfc520-02ad-4d79-8328-22cb76981698",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学平衡状态的定义与特征"
+ },
+ {
+  "from": "k12:da538bdd-c791-4f4b-9d50-3f60517f48b7",
+  "to": "k12:9651f0fe-1600-4a13-813f-59b94d2078ac",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学平衡状态的定义与特征"
+ },
+ {
+  "from": "k12:db83207c-3bd5-4c5a-89df-cf70f053d2fe",
+  "to": "k12:5ae86e82-f3d2-417b-9a81-a8c3687c138a",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "元素周期表基本结构与读法"
+ },
+ {
+  "from": "k12:dbe48cd6-193b-4d99-8d9e-ec48e7b0ad9d",
+  "to": "k12:15cccc06-3564-4b94-a4d6-d12eee9872bf",
+  "via": "phase2",
+  "sim": 0.33,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "基因控制性状的实验证据与核心命题"
+ },
+ {
+  "from": "k12:dc2a49db-3f01-4aeb-94f7-e6e27712399e",
+  "to": "k12:f80216ca-4bf5-4203-b7c0-6f842eb5b2d5",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "元素符号书写规范"
+ },
+ {
+  "from": "k12:de1891ae-ebfe-4e97-a0c8-71f60a64d56f",
+  "to": "k12:dc713c46-3418-4f3c-babb-0fea75d137f6",
+  "via": "phase2",
+  "sim": 0.32,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《月迹》中儿童心理活动与对话推动情节发展的叙事策略"
+ },
+ {
+  "from": "k12:df177ca3-8414-436e-a058-6e85cfd26d64",
+  "to": "k12:12066dc8-51fc-4a65-af33-7356c6eddf61",
+  "via": "phase2",
+  "sim": 0.3,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "预测的基本方法"
+ },
+ {
+  "from": "k12:df50e387-70a6-4f6b-8c94-8d26f2b51dc2",
+  "to": "k12:5208a426-bb5c-4881-9b34-051a40a1dc45",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "作者生平与创作背景"
+ },
+ {
+  "from": "k12:df50e387-70a6-4f6b-8c94-8d26f2b51dc2",
+  "to": "k12:bd25da63-d798-4d8d-8e66-beaaff645c4c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "作者生平与创作背景"
+ },
+ {
+  "from": "k12:e1b5ede7-eb0d-4f95-a2e7-4387a9923865",
+  "to": "k12:4dc0ba7e-89eb-4ac6-8e22-f801453b16c2",
+  "via": "phase2",
+  "sim": 0.45,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "反射的概念与类型"
+ },
+ {
+  "from": "k12:e1f416e5-84ee-41f0-9d24-b3831143e5fb",
+  "to": "k12:6d412050-6c1a-4dfa-a5ab-737fedd8e578",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "国际单位制（SI）力学部分"
+ },
+ {
+  "from": "k12:e2159260-764e-4fdf-b5a9-9ef8cdef373e",
+  "to": "k12:5de83c01-8dfe-4b88-96df-0625fd822e64",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "自主神经系统的结构与功能特征"
+ },
+ {
+  "from": "k12:e2b2f170-6f40-4387-b8bf-5e8d0fede482",
+  "to": "k12:d5914f93-41f5-470c-bbf2-1c52fcbb4b43",
+  "via": "phase2",
+  "sim": 0.31,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "共点力平衡问题的矢量三角形法（合成法）"
+ },
+ {
+  "from": "k12:e2fdd92b-87de-4463-ab1b-226ba38520b4",
+  "to": "k12:5a3dc766-b7d1-4bd3-93d4-cdc8fab90fae",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "碳酸钠与碳酸氢钠的物理性质与溶解热效应"
+ },
+ {
+  "from": "k12:e336952a-b4b2-47ef-b30c-67320d7e5bea",
+  "to": "k12:3fbb78b3-8088-4801-934b-373d29076b20",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "硝酸的物理性质与保存方法"
+ },
+ {
+  "from": "k12:e47f6a8d-43c1-496a-bf01-6f7ee111f7dc",
+  "to": "k12:dbac1a38-5ab0-44d7-a40f-52c3ac8309b3",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电容器的构造与充放电原理"
+ },
+ {
+  "from": "k12:e4ae3df7-a62d-4e74-ae82-95275166361e",
+  "to": "k12:5c370b68-d569-4502-ba2b-92549adbd7ac",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞骨架的结构与功能"
+ },
+ {
+  "from": "k12:e4b48e3f-e4c7-41ec-949e-c69fd974f5af",
+  "to": "k12:11463ccf-7da6-4dcf-a53b-e6af54717c51",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "盐类水解的本质与离子方程式书写"
+ },
+ {
+  "from": "k12:e4b48e3f-e4c7-41ec-949e-c69fd974f5af",
+  "to": "k12:513524c3-d33a-4eff-a483-94c4a923babd",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "盐类水解的本质与离子方程式书写"
+ },
+ {
+  "from": "k12:e53b4c3a-a7bd-431b-aab4-ef28427fe64c",
+  "to": "k12:6ff9d684-0cd8-4bee-b840-b7cc8772d8c5",
+  "via": "phase2",
+  "sim": 0.67,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "说明文中的趣味化修辞策略"
+ },
+ {
+  "from": "k12:e562b04b-23ac-4004-83e4-c94e7ef299ad",
+  "to": "k12:caab1d72-d474-447a-8e98-2d63b274a350",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "硫元素化合价与氧化还原性质的关系"
+ },
+ {
+  "from": "k12:e571fb9b-9e31-4cb7-88ef-f373d0d3ad82",
+  "to": "k12:01c543da-3234-422e-bc2d-8613bffabc47",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "氧化反应概念与判断"
+ },
+ {
+  "from": "k12:e5afd00e-7cfc-4638-a676-0258dcaa9bbc",
+  "to": "k12:80c008fc-fbd3-4cd5-aa79-560632affc3d",
+  "via": "phase2",
+  "sim": 0.35,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "过去进行时构成（was/were + V-ing）"
+ },
+ {
+  "from": "k12:e8238918-0009-4ad3-ba1a-2e973ecbc809",
+  "to": "k12:a84dcf51-57ab-4b63-b3c0-bf661d9d424b",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "醛的银镜反应与斐林/班氏反应（新制Cu(OH)₂氧化）"
+ },
+ {
+  "from": "k12:e94c6287-bff7-4710-a97c-04ff577c6af5",
+  "to": "k12:0a08f321-f318-40e1-b5cc-39ad0883aff8",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "when/while 时间状语从句"
+ },
+ {
+  "from": "k12:e94c6287-bff7-4710-a97c-04ff577c6af5",
+  "to": "k12:145e8cb7-53c0-4c22-a38a-f7dab9030c57",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "when/while 时间状语从句"
+ },
+ {
+  "from": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "to": "k12:0b0a6488-abe5-4991-9d48-093f815090ef",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "DNA双螺旋结构模型与半保留复制机制"
+ },
+ {
+  "from": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "to": "k12:36fd1687-157a-4dce-a067-5b14deb223d9",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "DNA双螺旋结构模型与半保留复制机制"
+ },
+ {
+  "from": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "to": "k12:8cccb3a1-6387-405d-8fb4-1f217a6d5fd4",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "DNA双螺旋结构模型与半保留复制机制"
+ },
+ {
+  "from": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "to": "k12:ec8beb6b-60f9-42ee-9599-e77aaa32cb0d",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "DNA双螺旋结构模型与半保留复制机制"
+ },
+ {
+  "from": "k12:e9756e29-d6f6-49b6-9e3b-a78d083b3183",
+  "to": "k12:eeb49af4-5a09-40d6-b8f7-87ce08e5b998",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "DNA双螺旋结构模型与半保留复制机制"
+ },
+ {
+  "from": "k12:ea510219-9dd6-4321-a561-e96595ccffcd",
+  "to": "k12:f61de9b8-b0cf-4b97-8421-11e24b69fe61",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "基因突变的概念与分子机制"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:035ac604-0768-485c-b550-c2fbecdc5e25",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:1f8a7685-b670-4849-bfb6-06cb75694257",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:328b60b3-c920-4698-926d-42c5150908b5",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:4738c631-28ee-4998-8b1e-e2c3b52d6fc0",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:8bfe0f3c-91ed-42d8-b5f4-1457936f7e69",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:99e3233b-4e44-4dea-8aa1-7dfef4b6d0a9",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:ce68fc4a-1e01-4b19-8637-49a622499344",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:cf17193e-7188-42c6-8bd7-e42180f2c01e",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:e044235f-2e25-4ccb-8cfa-ddbdd96e7e0a",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:e425aa40-256d-439a-8b3a-1e29e93045af",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 5,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eac058bb-1cf5-4dda-bd74-ed89ff3723de",
+  "to": "k12:faa50f47-1a3f-4da0-9d3a-fcce97e16666",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "对照实验设计原则"
+ },
+ {
+  "from": "k12:eaf4115e-93f4-4ef9-87b5-4e956d2fadeb",
+  "to": "k12:28a55639-0d3a-4898-887a-7668845f7e24",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "基因在染色体上呈线性排列"
+ },
+ {
+  "from": "k12:ec7682af-1cef-46f7-bd91-4a40445dd0f2",
+  "to": "k12:5f5fe668-0266-47b3-a0e8-8c383770056f",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "变速运动与平均速度"
+ },
+ {
+  "from": "k12:ed2ce229-43cc-4a8f-b8af-b72aa364c269",
+  "to": "k12:e61a664a-1bac-4247-b439-ac6191cb4d9a",
+  "via": "phase2",
+  "sim": 0.6,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "家庭成员称谓识字"
+ },
+ {
+  "from": "k12:ed90c4a6-8ee8-4c6e-a5ea-2fdb40558943",
+  "to": "k12:12251409-572f-4b84-b9c7-191810bd9322",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细菌理想条件下的指数增长模型"
+ },
+ {
+  "from": "k12:edaabdda-83ac-438b-a969-592c923b0f52",
+  "to": "k12:ab548391-83bc-4d5f-9542-41cc82e5a768",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "群落的空间结构（垂直结构与水平结构）"
+ },
+ {
+  "from": "k12:edf6a999-ee18-4770-9273-09e6ccd139f4",
+  "to": "k12:958c9eea-512f-43db-927d-aafd2778b2ce",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "化学方程式的宏观含义读取"
+ },
+ {
+  "from": "k12:ee3b9796-750e-477a-b80b-5c54803dff1c",
+  "to": "k12:ada0e6e5-a9f7-4bcd-8341-2f21aa0347b3",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞是生命活动基本单位（结构与功能统一）"
+ },
+ {
+  "from": "k12:eed2c24d-d6af-4665-9dd0-7ceb0dfe27fc",
+  "to": "k12:1cb44f85-95e1-48e5-9286-58e38d21e883",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 5,
+  "subject": "物理",
+  "node": "内能的概念与影响因素"
+ },
+ {
+  "from": "k12:eed2c24d-d6af-4665-9dd0-7ceb0dfe27fc",
+  "to": "k12:ad1c6a29-8b80-4863-9517-1e8e0b4b908b",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 5,
+  "subject": "物理",
+  "node": "内能的概念与影响因素"
+ },
+ {
+  "from": "k12:ef823f88-13ce-422c-8139-74840ed70135",
+  "to": "k12:21a38bb1-fdd0-4d05-8f94-6f16a8ed7ee5",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在完成时与一般过去时的场景辨析"
+ },
+ {
+  "from": "k12:ef823f88-13ce-422c-8139-74840ed70135",
+  "to": "k12:ce36e9fb-d021-489d-8914-536d0c707117",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在完成时与一般过去时的场景辨析"
+ },
+ {
+  "from": "k12:ef823f88-13ce-422c-8139-74840ed70135",
+  "to": "k12:d165ac16-8df7-4231-9b38-eed7c2dfee08",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "现在完成时与一般过去时的场景辨析"
+ },
+ {
+  "from": "k12:efa70d2e-4791-4037-a854-702db4f6fc37",
+  "to": "k12:47232ae6-8c21-4e0a-8a05-0bf6d6a865c7",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "分子晶体中粒子间作用力类型及影响"
+ },
+ {
+  "from": "k12:efb48996-abc4-4b69-b001-dcdb5298f18f",
+  "to": "k12:61046e64-ba93-4751-a0f3-aa8baced8732",
+  "via": "phase2",
+  "sim": 0.56,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "直接抒情与间接抒情"
+ },
+ {
+  "from": "k12:efbff68b-4cf6-4e0d-ae5e-4186342e5f44",
+  "to": "k12:bdf1c944-fcea-4b61-b23c-776f2ce5fb85",
+  "via": "phase2",
+  "sim": 0.87,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单人游戏活动的词语认读与表达"
+ },
+ {
+  "from": "k12:f0a6f7cc-fc2e-45e5-9535-efd1bd6182dd",
+  "to": "k12:1b163ffa-9f5a-4cae-a47e-2971954402a5",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "小说人物心理描写的多层呈现与叙事功能"
+ },
+ {
+  "from": "k12:f0a6f7cc-fc2e-45e5-9535-efd1bd6182dd",
+  "to": "k12:90ee3c81-183b-4bf7-a629-c52d5c652c80",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "小说人物心理描写的多层呈现与叙事功能"
+ },
+ {
+  "from": "k12:f0a6f7cc-fc2e-45e5-9535-efd1bd6182dd",
+  "to": "k12:a35508cc-b6e6-40e9-b04c-4b79d0267b47",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "小说人物心理描写的多层呈现与叙事功能"
+ },
+ {
+  "from": "k12:f0a6f7cc-fc2e-45e5-9535-efd1bd6182dd",
+  "to": "k12:bb039a11-f4f8-4f92-8354-5bfb06a62b14",
+  "via": "phase2",
+  "sim": 0.29,
+  "mentions": 4,
+  "subject": "语文",
+  "node": "小说人物心理描写的多层呈现与叙事功能"
+ },
+ {
+  "from": "k12:f0b24f7c-785f-4453-b2f2-908811217efc",
+  "to": "k12:697e3f6c-c2d2-491e-b851-68bbf6f3b15c",
+  "via": "phase2",
+  "sim": 0.41,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "酵母菌的兼性厌氧特性与果酒制作原理"
+ },
+ {
+  "from": "k12:f0cde882-8bb1-4fa5-8ea6-8acc10c04981",
+  "to": "k12:17bba6b3-4cb6-4ee0-a52f-a04d619e4341",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "健康问诊对话（医患/朋友关心双场景）"
+ },
+ {
+  "from": "k12:f0cde882-8bb1-4fa5-8ea6-8acc10c04981",
+  "to": "k12:df601875-bb5c-45dc-b0be-035d0994b588",
+  "via": "phase2",
+  "sim": 0.36,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "健康问诊对话（医患/朋友关心双场景）"
+ },
+ {
+  "from": "k12:f194d872-8e13-4f79-a832-f0509901fb51",
+  "to": "k12:a6ff6e17-7c50-490c-9b8c-36d3beab16cc",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "一般现在时被动语态复现辨析"
+ },
+ {
+  "from": "k12:f195b4ed-a12d-4d1f-bb59-e68c966e6949",
+  "to": "k12:4426cb42-ec59-450d-8af0-89f9f903a158",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 2,
+  "subject": "英语",
+  "node": "情态动词 can/could 发出邀请句型"
+ },
+ {
+  "from": "k12:f195b4ed-a12d-4d1f-bb59-e68c966e6949",
+  "to": "k12:ae930fed-b91a-4e98-a2eb-6f0bcb2a44f6",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "情态动词 can/could 发出邀请句型"
+ },
+ {
+  "from": "k12:f1f09c81-90cc-49d4-a303-e27938de93d8",
+  "to": "k12:2bda5be1-6247-494a-abc1-87b5b3fc7f80",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《己亥杂诗》中的借代与比喻修辞辨识与作用分析"
+ },
+ {
+  "from": "k12:f1f09c81-90cc-49d4-a303-e27938de93d8",
+  "to": "k12:77cd8a94-d7b0-46c0-be8a-9752cd74c2c5",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《己亥杂诗》中的借代与比喻修辞辨识与作用分析"
+ },
+ {
+  "from": "k12:f1f09c81-90cc-49d4-a303-e27938de93d8",
+  "to": "k12:b762a338-04ca-4245-ba9c-2c056168291f",
+  "via": "phase2",
+  "sim": 0.26,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "《己亥杂诗》中的借代与比喻修辞辨识与作用分析"
+ },
+ {
+  "from": "k12:f25fb543-995d-4854-a0ba-7db1c0441a14",
+  "to": "k12:1e3a2451-822c-4fab-b439-8b921a08b96f",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "保护生物多样性的意义与价值"
+ },
+ {
+  "from": "k12:f2e9dc3d-03a0-4e03-b426-9713c1dec246",
+  "to": "k12:313bd16c-c261-4960-8858-9d66d68daf04",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "溶度积常数（Ksp）及其表达式"
+ },
+ {
+  "from": "k12:f329ce04-9444-4460-8dc0-79ef29ed83db",
+  "to": "k12:1d9d415a-1142-4259-af64-06e21cbb1563",
+  "via": "phase2",
+  "sim": 0.71,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "波的干涉条件"
+ },
+ {
+  "from": "k12:f3de2774-fb2b-4696-85cf-b2dcc0b496db",
+  "to": "k12:370fb16e-745f-4cde-8b46-4ec0ca44954b",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "拟人化表达的初步感知"
+ },
+ {
+  "from": "k12:f3ec55c1-8a97-4754-aafd-7a9dc5a744b6",
+  "to": "k12:86522910-b366-4eee-ba7e-3cb45889224d",
+  "via": "phase2",
+  "sim": 0.7,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "电容的定义与物理意义"
+ },
+ {
+  "from": "k12:f3ef9c95-af36-44e0-8fac-afb622e40df7",
+  "to": "k12:a538c33b-23cc-478b-83c4-10b5e4c82736",
+  "via": "phase2",
+  "sim": 0.53,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "b p m f 与单韵母 a o e i u ü 的四声拼读"
+ },
+ {
+  "from": "k12:f45d32b8-0c48-42ee-8572-837a7b73d2c4",
+  "to": "k12:8a81d8ff-10d6-4bbe-88a3-70b8af5606e7",
+  "via": "phase2",
+  "sim": 0.54,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "通过人物动作语言神态体会内心情感"
+ },
+ {
+  "from": "k12:f4be3911-dc32-4013-b91f-2860fa4b65d9",
+  "to": "k12:4d65fa02-669a-419c-839d-9bc655a2536d",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "《三峡》中文言实词辨析（沿溯、襄陵、虽、奔、御风、属引）"
+ },
+ {
+  "from": "k12:f4f9c6e9-101e-462d-b850-3bf1eb0a5cf6",
+  "to": "k12:83826a8a-1a0d-4635-9180-160b208865aa",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "乙醇的氧化反应（燃烧与催化氧化）"
+ },
+ {
+  "from": "k12:f6001284-4477-472a-83b4-d94d4f647837",
+  "to": "k12:20af80e4-942c-4efb-b8da-268589a283ec",
+  "via": "phase2",
+  "sim": 0.57,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物组织培养的基本流程与原理"
+ },
+ {
+  "from": "k12:f6001284-4477-472a-83b4-d94d4f647837",
+  "to": "k12:9518804f-00fc-45af-9363-325a61deb8f5",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物组织培养的基本流程与原理"
+ },
+ {
+  "from": "k12:f6001284-4477-472a-83b4-d94d4f647837",
+  "to": "k12:dc4b9b2f-5785-4b4e-9f1e-e463d8423c1b",
+  "via": "phase2",
+  "sim": 0.64,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "植物组织培养的基本流程与原理"
+ },
+ {
+  "from": "k12:f6737d9e-a0b7-45f0-bfbc-401117b502c3",
+  "to": "k12:cc95fea2-6dbe-4dad-a4ed-4a7019f885c3",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "有机化合物中碳原子的成键特点"
+ },
+ {
+  "from": "k12:f79a8cfc-d5bc-425c-b284-ca227978f2e4",
+  "to": "k12:14c6f05a-c90a-4e5f-bafd-f8b51a25b533",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "摩尔质量及其计算应用"
+ },
+ {
+  "from": "k12:f79a8cfc-d5bc-425c-b284-ca227978f2e4",
+  "to": "k12:8559deae-6036-41a1-9ef7-2a1dadacb6bb",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "摩尔质量及其计算应用"
+ },
+ {
+  "from": "k12:f79a8cfc-d5bc-425c-b284-ca227978f2e4",
+  "to": "k12:e2fe0aff-f6fe-4371-bfb0-6a7859827eba",
+  "via": "phase2",
+  "sim": 0.4,
+  "mentions": 3,
+  "subject": "化学",
+  "node": "摩尔质量及其计算应用"
+ },
+ {
+  "from": "k12:f92fa5ff-5553-4e20-8f51-e2025ef10522",
+  "to": "k12:b4f72c93-e6e0-4ed6-a8bc-a6e5d03b7854",
+  "via": "phase2",
+  "sim": 0.72,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "频率副词在一般现在时中的位置与语义"
+ },
+ {
+  "from": "k12:fab055f3-464e-4595-a3fb-41e0e695ff87",
+  "to": "k12:28887011-034b-4ecd-bc56-0de8c2da0876",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "过去完成时构成（had + 过去分词）"
+ },
+ {
+  "from": "k12:fab055f3-464e-4595-a3fb-41e0e695ff87",
+  "to": "k12:b61be473-1096-4850-b300-2fc34d07fd1c",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "过去完成时构成（had + 过去分词）"
+ },
+ {
+  "from": "k12:fab055f3-464e-4595-a3fb-41e0e695ff87",
+  "to": "k12:eb3be435-83c7-44a1-bff5-c5a529d05ed4",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 4,
+  "subject": "英语",
+  "node": "过去完成时构成（had + 过去分词）"
+ },
+ {
+  "from": "k12:fb64a0cb-7e76-447c-a417-856ac14c6368",
+  "to": "k12:929ee7ee-f49b-4354-9261-4034fadc504c",
+  "via": "phase2",
+  "sim": 0.44,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "生态系统物质循环的特点"
+ },
+ {
+  "from": "k12:fb91b24b-f359-4952-9935-6cc3d384a232",
+  "to": "k12:24d9bb88-e235-4021-9565-493a717939b6",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "古代诚信典故梳理（尾生抱柱、商鞅立木、曾子烹彘）"
+ },
+ {
+  "from": "k12:fb91b24b-f359-4952-9935-6cc3d384a232",
+  "to": "k12:e40ac9cc-a045-409e-b8bc-b965bbbc74b7",
+  "via": "phase2",
+  "sim": 0.75,
+  "mentions": 3,
+  "subject": "语文",
+  "node": "古代诚信典故梳理（尾生抱柱、商鞅立木、曾子烹彘）"
+ },
+ {
+  "from": "k12:fc3f1e0f-2797-43ac-89ce-8e3bc8289fa2",
+  "to": "k12:35e40060-7f9c-4aec-b38f-cbb13273e56b",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "生态系统能量流动的特点"
+ },
+ {
+  "from": "k12:fc3f1e0f-2797-43ac-89ce-8e3bc8289fa2",
+  "to": "k12:5449f433-c09a-436b-9432-720558794430",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "生态系统能量流动的特点"
+ },
+ {
+  "from": "k12:fc9633b4-1d3d-4743-ac5c-b5bdb52a1850",
+  "to": "k12:3cc73d82-885f-4c93-9e8e-5397a9197f26",
+  "via": "phase2",
+  "sim": 0.55,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "单韵母 ɑ o e 的认读"
+ },
+ {
+  "from": "k12:fcf22f09-1220-4a8b-85a3-9ab68772c9cf",
+  "to": "k12:1a368981-3ac2-46cb-80f4-a5fd57fcb815",
+  "via": "phase2",
+  "sim": 0.46,
+  "mentions": 1,
+  "subject": "生物",
+  "node": "细胞器的形态、结构与功能分工"
+ },
+ {
+  "from": "k12:fcf469b1-0ada-4088-bd78-e46c0b90987d",
+  "to": "k12:920dc72e-fa0c-4c97-9c92-6e2a9c97e762",
+  "via": "phase2",
+  "sim": 0.42,
+  "mentions": 1,
+  "subject": "化学",
+  "node": "单质与化合物的概念辨析"
+ },
+ {
+  "from": "k12:fd22be45-8472-4973-819e-e32d9ee80ee1",
+  "to": "k12:d9d5ab7c-a09a-4b15-95fc-20dcc00d1a91",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "弹性势能的概念与影响因素（形变量）"
+ },
+ {
+  "from": "k12:fde486a3-0023-490f-a785-b284fbaf10ca",
+  "to": "k12:d10d9e2d-2ea6-447a-b0f7-6bbf53e86791",
+  "via": "phase2",
+  "sim": 0.43,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "磁场方向与磁感线分布规律"
+ },
+ {
+  "from": "k12:fde486a3-0023-490f-a785-b284fbaf10ca",
+  "to": "k12:efe5ed27-05a6-4e44-8e3f-55cf33b8e211",
+  "via": "phase2",
+  "sim": 0.47,
+  "mentions": 1,
+  "subject": "物理",
+  "node": "磁场方向与磁感线分布规律"
+ },
+ {
+  "from": "k12:feed530d-ff5e-4d7c-9dee-852309afd034",
+  "to": "k12:35dba523-c581-4089-87b3-25960013fa32",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "原子的构成（质子、中子、电子）"
+ },
+ {
+  "from": "k12:feed530d-ff5e-4d7c-9dee-852309afd034",
+  "to": "k12:b147243a-fbd3-47fc-851e-37ff2c5937d3",
+  "via": "phase2",
+  "sim": 0.73,
+  "mentions": 2,
+  "subject": "化学",
+  "node": "原子的构成（质子、中子、电子）"
+ },
+ {
+  "from": "k12:ff2e694a-de34-42a1-acb6-f0c4da274abe",
+  "to": "k12:124ee2c3-c96b-4683-9869-771c7edafdca",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "人类XX-XY性别决定机制"
+ },
+ {
+  "from": "k12:ff2e694a-de34-42a1-acb6-f0c4da274abe",
+  "to": "k12:f48c4f53-84fd-476b-b01a-b0adcf7b1db8",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 2,
+  "subject": "生物",
+  "node": "人类XX-XY性别决定机制"
+ },
+ {
+  "from": "k12:ff42d85f-5460-4cfe-80e5-e1e9f492cdec",
+  "to": "k12:c750fb4b-2391-40a9-bd93-4524d0720de4",
+  "via": "phase2",
+  "sim": 0.58,
+  "mentions": 1,
+  "subject": "语文",
+  "node": "诗歌朗诵的停连与重音设计"
+ },
+ {
+  "from": "k12:ff4b56db-179c-41d0-96ef-a8a4a9618ba5",
+  "to": "k12:6c6481b3-dacd-439b-bfd1-041ed67ab1a4",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "结构模式辨析与选用（总分总／纵式／横式／对比式）"
+ },
+ {
+  "from": "k12:ff4b56db-179c-41d0-96ef-a8a4a9618ba5",
+  "to": "k12:6f598262-8cd6-4774-a7e2-c51a70e16683",
+  "via": "phase2",
+  "sim": 0.28,
+  "mentions": 2,
+  "subject": "语文",
+  "node": "结构模式辨析与选用（总分总／纵式／横式／对比式）"
+ },
+ {
+  "from": "k12:ff9db2bb-f24c-464b-a8d4-c4474bb438a0",
+  "to": "k12:1eb5ec13-eb61-4155-a3b2-58788ef469c7",
+  "via": "phase2",
+  "sim": 0.5,
+  "mentions": 1,
+  "subject": "英语",
+  "node": "饮食与健康习惯词汇"
+ }
+]
