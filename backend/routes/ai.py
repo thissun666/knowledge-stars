@@ -11,7 +11,7 @@ from typing import Any, List
 from fastapi import APIRouter
 from pydantic import BaseModel
 
-from backend import ai_service, schemas, state
+from backend import ai_service, schemas, state, ai_settings
 
 logger = logging.getLogger("app.api.ai")
 router = APIRouter(tags=["ai"])
