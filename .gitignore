@@ -18,3 +18,5 @@ dist/
 build/
 *.spec
 KnowledgeStars-win64.zip
+
+知识星图辅助文件不可删除.txt

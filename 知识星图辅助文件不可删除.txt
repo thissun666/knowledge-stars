@@ -1,6 +1,0 @@
-venv\Scripts\activate
-cd E:\AAAhtml2\knowledge-stars
-
-venv\Scripts\activate
-
-uvicorn backend.main:app --port 8000
