@@ -17,11 +17,13 @@
 进度存档在 data/student_progress.db, 备份它即备份全部学习记录。
 
 ## 从源码运行
-git clone https://github.com/你的GitHub用户名/knowledge-stars.git
+```
+git clone https://github.com/thissun666/knowledge-stars.git
 cd knowledge-stars
 python -m venv venv
 venv\Scripts\pip install -r requirements.txt
 python launcher.py
+```
 
 
 数据目录放置约定见 setup_dirs.py (克隆对应数据源并改名为 marble-data / pep-data / k12-data / k12kgraph-hf), 或直接用 Release 安装包。
